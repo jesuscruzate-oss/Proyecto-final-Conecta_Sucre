@@ -1,0 +1,5898 @@
+[{
+  "_id": {
+    "$oid": "6b006616df9dadfa57b11631"
+  },
+  "codigo_novedad": "NOV-001",
+  "descripcion": "Pinchazo de llanta durante el recorrido.",
+  "entorno": "DEMOSTRACION",
+  "estado": "RESUELTA",
+  "evidencias": [
+    {
+      "tipo": "FOTO",
+      "archivo": "pinchazo.jpg"
+    }
+  ],
+  "id_despacho": {
+    "$numberInt": "1"
+  },
+  "impacto": {
+    "minutos_retraso": {
+      "$numberInt": "45"
+    }
+  },
+  "tipo": "FALLA_MECANICA",
+  "ubicacion": {
+    "municipio": "Sincelejo",
+    "departamento": "Sucre"
+  },
+  "embedding": [
+    {
+      "$numberDouble": "0.05109119"
+    },
+    {
+      "$numberDouble": "0.03177064"
+    },
+    {
+      "$numberDouble": "0.00119098"
+    },
+    {
+      "$numberDouble": "0.02192046"
+    },
+    {
+      "$numberDouble": "0.06050416"
+    },
+    {
+      "$numberDouble": "-0.00514681"
+    },
+    {
+      "$numberDouble": "0.12776032"
+    },
+    {
+      "$numberDouble": "0.00249668"
+    },
+    {
+      "$numberDouble": "-0.03896271"
+    },
+    {
+      "$numberDouble": "-0.04008941"
+    },
+    {
+      "$numberDouble": "0.06918752"
+    },
+    {
+      "$numberDouble": "0.01750303"
+    },
+    {
+      "$numberDouble": "-0.00839637"
+    },
+    {
+      "$numberDouble": "0.05197558"
+    },
+    {
+      "$numberDouble": "-0.07853141"
+    },
+    {
+      "$numberDouble": "0.05305749"
+    },
+    {
+      "$numberDouble": "0.01141702"
+    },
+    {
+      "$numberDouble": "-0.02534918"
+    },
+    {
+      "$numberDouble": "0.0185674"
+    },
+    {
+      "$numberDouble": "0.01471061"
+    },
+    {
+      "$numberDouble": "0.00320383"
+    },
+    {
+      "$numberDouble": "0.00179084"
+    },
+    {
+      "$numberDouble": "-0.01258577"
+    },
+    {
+      "$numberDouble": "0.06337227"
+    },
+    {
+      "$numberDouble": "-0.03038477"
+    },
+    {
+      "$numberDouble": "0.05315034"
+    },
+    {
+      "$numberDouble": "-0.0512736"
+    },
+    {
+      "$numberDouble": "-0.03975192"
+    },
+    {
+      "$numberDouble": "-0.01627677"
+    },
+    {
+      "$numberDouble": "-0.06255639"
+    },
+    {
+      "$numberDouble": "-0.02147893"
+    },
+    {
+      "$numberDouble": "-0.0154999"
+    },
+    {
+      "$numberDouble": "-0.05481248"
+    },
+    {
+      "$numberDouble": "0.02745574"
+    },
+    {
+      "$numberDouble": "0.02130281"
+    },
+    {
+      "$numberDouble": "0.02462272"
+    },
+    {
+      "$numberDouble": "-0.02938408"
+    },
+    {
+      "$numberDouble": "0.03278565"
+    },
+    {
+      "$numberDouble": "0.08184622"
+    },
+    {
+      "$numberDouble": "0.05715783"
+    },
+    {
+      "$numberDouble": "0.00000396"
+    },
+    {
+      "$numberDouble": "-0.00257459"
+    },
+    {
+      "$numberDouble": "0.00877138"
+    },
+    {
+      "$numberDouble": "0.04046886"
+    },
+    {
+      "$numberDouble": "0.05115788"
+    },
+    {
+      "$numberDouble": "0.02298946"
+    },
+    {
+      "$numberDouble": "0.01070717"
+    },
+    {
+      "$numberDouble": "0.01064302"
+    },
+    {
+      "$numberDouble": "0.02180685"
+    },
+    {
+      "$numberDouble": "0.02042683"
+    },
+    {
+      "$numberDouble": "0.02285334"
+    },
+    {
+      "$numberDouble": "-0.07481042"
+    },
+    {
+      "$numberDouble": "-0.05960174"
+    },
+    {
+      "$numberDouble": "-0.07512864"
+    },
+    {
+      "$numberDouble": "0.03417093"
+    },
+    {
+      "$numberDouble": "-0.03143207"
+    },
+    {
+      "$numberDouble": "-0.01747525"
+    },
+    {
+      "$numberDouble": "-0.00567216"
+    },
+    {
+      "$numberDouble": "-0.01986355"
+    },
+    {
+      "$numberDouble": "0.03853718"
+    },
+    {
+      "$numberDouble": "0.00282901"
+    },
+    {
+      "$numberDouble": "-0.0164328"
+    },
+    {
+      "$numberDouble": "-0.16317888"
+    },
+    {
+      "$numberDouble": "0.06737675"
+    },
+    {
+      "$numberDouble": "-0.06801881"
+    },
+    {
+      "$numberDouble": "-0.03106395"
+    },
+    {
+      "$numberDouble": "-0.0120811"
+    },
+    {
+      "$numberDouble": "-0.09068302"
+    },
+    {
+      "$numberDouble": "-0.00369917"
+    },
+    {
+      "$numberDouble": "0.05556301"
+    },
+    {
+      "$numberDouble": "0.00257152"
+    },
+    {
+      "$numberDouble": "0.00244557"
+    },
+    {
+      "$numberDouble": "-0.0505389"
+    },
+    {
+      "$numberDouble": "-0.01443963"
+    },
+    {
+      "$numberDouble": "0.07199214"
+    },
+    {
+      "$numberDouble": "0.01902635"
+    },
+    {
+      "$numberDouble": "-0.00960805"
+    },
+    {
+      "$numberDouble": "0.04394555"
+    },
+    {
+      "$numberDouble": "-0.03204352"
+    },
+    {
+      "$numberDouble": "-0.06260964"
+    },
+    {
+      "$numberDouble": "0.0459041"
+    },
+    {
+      "$numberDouble": "-0.03161354"
+    },
+    {
+      "$numberDouble": "-0.02871857"
+    },
+    {
+      "$numberDouble": "0.0185336"
+    },
+    {
+      "$numberDouble": "0.0064539"
+    },
+    {
+      "$numberDouble": "0.02030357"
+    },
+    {
+      "$numberDouble": "0.02248693"
+    },
+    {
+      "$numberDouble": "0.01755142"
+    },
+    {
+      "$numberDouble": "0.00051032"
+    },
+    {
+      "$numberDouble": "-0.03433445"
+    },
+    {
+      "$numberDouble": "0.06550488"
+    },
+    {
+      "$numberDouble": "-0.08862802"
+    },
+    {
+      "$numberDouble": "0.01881156"
+    },
+    {
+      "$numberDouble": "0.06780512"
+    },
+    {
+      "$numberDouble": "0.10124049"
+    },
+    {
+      "$numberDouble": "0.06861337"
+    },
+    {
+      "$numberDouble": "0.01616394"
+    },
+    {
+      "$numberDouble": "0.01903175"
+    },
+    {
+      "$numberDouble": "0.0715047"
+    },
+    {
+      "$numberDouble": "0.15771526"
+    },
+    {
+      "$numberDouble": "0.0724524"
+    },
+    {
+      "$numberDouble": "-0.02274954"
+    },
+    {
+      "$numberDouble": "0.00378454"
+    },
+    {
+      "$numberDouble": "0.04094537"
+    },
+    {
+      "$numberDouble": "-0.03169965"
+    },
+    {
+      "$numberDouble": "-0.01550599"
+    },
+    {
+      "$numberDouble": "0.00097481"
+    },
+    {
+      "$numberDouble": "-0.07914294"
+    },
+    {
+      "$numberDouble": "-0.00080972"
+    },
+    {
+      "$numberDouble": "-0.0128028"
+    },
+    {
+      "$numberDouble": "0.01949113"
+    },
+    {
+      "$numberDouble": "0.05497022"
+    },
+    {
+      "$numberDouble": "-0.01209332"
+    },
+    {
+      "$numberDouble": "0.01740315"
+    },
+    {
+      "$numberDouble": "-0.05086819"
+    },
+    {
+      "$numberDouble": "-0.04939318"
+    },
+    {
+      "$numberDouble": "-0.08236404"
+    },
+    {
+      "$numberDouble": "0.03445486"
+    },
+    {
+      "$numberDouble": "-0.09332968"
+    },
+    {
+      "$numberDouble": "0.06226103"
+    },
+    {
+      "$numberDouble": "-0.06172353"
+    },
+    {
+      "$numberDouble": "-0.08381411"
+    },
+    {
+      "$numberDouble": "0.04264035"
+    },
+    {
+      "$numberDouble": "-0.00546183"
+    },
+    {
+      "$numberDouble": "-0.01530906"
+    },
+    {
+      "$numberDouble": "-0.12529083"
+    },
+    {
+      "$numberDouble": "0.09074283"
+    },
+    {
+      "$numberDouble": "0.06815034"
+    },
+    {
+      "$numberDouble": "-0.01901821"
+    },
+    {
+      "$numberDouble": "0.00509792"
+    },
+    {
+      "$numberDouble": "-0.01998769"
+    },
+    {
+      "$numberDouble": "0.03979948"
+    },
+    {
+      "$numberDouble": "0.01715421"
+    },
+    {
+      "$numberDouble": "-0.02669513"
+    },
+    {
+      "$numberDouble": "-0.11618343"
+    },
+    {
+      "$numberDouble": "-0.02840331"
+    },
+    {
+      "$numberDouble": "0.03553613"
+    },
+    {
+      "$numberDouble": "0.05422337"
+    },
+    {
+      "$numberDouble": "-0.01396543"
+    },
+    {
+      "$numberDouble": "-0.08576493"
+    },
+    {
+      "$numberDouble": "-0.10359542"
+    },
+    {
+      "$numberDouble": "0.00519461"
+    },
+    {
+      "$numberDouble": "0.00225762"
+    },
+    {
+      "$numberDouble": "0.00389744"
+    },
+    {
+      "$numberDouble": "0.03258827"
+    },
+    {
+      "$numberDouble": "-0.06377929"
+    },
+    {
+      "$numberDouble": "-0.07406385"
+    },
+    {
+      "$numberDouble": "-0.03593723"
+    },
+    {
+      "$numberDouble": "-0.03011834"
+    },
+    {
+      "$numberDouble": "-0.00079249"
+    },
+    {
+      "$numberDouble": "0.01867366"
+    },
+    {
+      "$numberDouble": "-0.02173793"
+    },
+    {
+      "$numberDouble": "0.01842969"
+    },
+    {
+      "$numberDouble": "0.06905658"
+    },
+    {
+      "$numberDouble": "-0.02350933"
+    },
+    {
+      "$numberDouble": "-0.02894126"
+    },
+    {
+      "$numberDouble": "0.0558613"
+    },
+    {
+      "$numberDouble": "0.04600132"
+    },
+    {
+      "$numberDouble": "0.01659861"
+    },
+    {
+      "$numberDouble": "0.04496785"
+    },
+    {
+      "$numberDouble": "-0.00996396"
+    },
+    {
+      "$numberDouble": "0.05621194"
+    },
+    {
+      "$numberDouble": "-0.00439541"
+    },
+    {
+      "$numberDouble": "0.01561126"
+    },
+    {
+      "$numberDouble": "0.03495639"
+    },
+    {
+      "$numberDouble": "-0.00293607"
+    },
+    {
+      "$numberDouble": "-0.03028089"
+    },
+    {
+      "$numberDouble": "0.00416146"
+    },
+    {
+      "$numberDouble": "0.02088012"
+    },
+    {
+      "$numberDouble": "-0.00797514"
+    },
+    {
+      "$numberDouble": "-0.04808407"
+    },
+    {
+      "$numberDouble": "-0.00815014"
+    },
+    {
+      "$numberDouble": "-0.04493544"
+    },
+    {
+      "$numberDouble": "0.00061083"
+    },
+    {
+      "$numberDouble": "-0.00949311"
+    },
+    {
+      "$numberDouble": "0.06775361"
+    },
+    {
+      "$numberDouble": "-0.0645179"
+    },
+    {
+      "$numberDouble": "0.09028843"
+    },
+    {
+      "$numberDouble": "-0.02831137"
+    },
+    {
+      "$numberDouble": "-0.0353284"
+    },
+    {
+      "$numberDouble": "0.05456453"
+    },
+    {
+      "$numberDouble": "-0.00642163"
+    },
+    {
+      "$numberDouble": "-0.02228767"
+    },
+    {
+      "$numberDouble": "0.04997031"
+    },
+    {
+      "$numberDouble": "0.04062324"
+    },
+    {
+      "$numberDouble": "0.00846692"
+    },
+    {
+      "$numberDouble": "-0.01241755"
+    },
+    {
+      "$numberDouble": "0.04004793"
+    },
+    {
+      "$numberDouble": "0.05855604"
+    },
+    {
+      "$numberDouble": "-0.02674983"
+    },
+    {
+      "$numberDouble": "0.03067581"
+    },
+    {
+      "$numberDouble": "-0.018159"
+    },
+    {
+      "$numberDouble": "0.0793153"
+    },
+    {
+      "$numberDouble": "0.00860201"
+    },
+    {
+      "$numberDouble": "-0.03697001"
+    },
+    {
+      "$numberDouble": "0.01931624"
+    },
+    {
+      "$numberDouble": "-0.01967959"
+    },
+    {
+      "$numberDouble": "0.03308772"
+    },
+    {
+      "$numberDouble": "-0.00775997"
+    },
+    {
+      "$numberDouble": "0.01337703"
+    },
+    {
+      "$numberDouble": "-0.08766571"
+    },
+    {
+      "$numberDouble": "-0.06523038"
+    },
+    {
+      "$numberDouble": "0.00448322"
+    },
+    {
+      "$numberDouble": "-0.04119526"
+    },
+    {
+      "$numberDouble": "0.04358698"
+    },
+    {
+      "$numberDouble": "0.00483626"
+    },
+    {
+      "$numberDouble": "-0.00116592"
+    },
+    {
+      "$numberDouble": "-0.07013705"
+    },
+    {
+      "$numberDouble": "-0.03232095"
+    },
+    {
+      "$numberDouble": "0.08283115"
+    },
+    {
+      "$numberDouble": "0.02351067"
+    },
+    {
+      "$numberDouble": "-0.03986102"
+    },
+    {
+      "$numberDouble": "0.04480746"
+    },
+    {
+      "$numberDouble": "0.01230684"
+    },
+    {
+      "$numberDouble": "0.03679526"
+    },
+    {
+      "$numberDouble": "-0.07221648"
+    },
+    {
+      "$numberDouble": "-0.04828379"
+    },
+    {
+      "$numberDouble": "0.00899213"
+    },
+    {
+      "$numberDouble": "-0.04974225"
+    },
+    {
+      "$numberDouble": "0.06383996"
+    },
+    {
+      "$numberDouble": "-0.02921326"
+    },
+    {
+      "$numberDouble": "-0.07240921"
+    },
+    {
+      "$numberDouble": "0.04199692"
+    },
+    {
+      "$numberDouble": "-0.18087332"
+    },
+    {
+      "$numberDouble": "0.01284415"
+    },
+    {
+      "$numberDouble": "-0.00807706"
+    },
+    {
+      "$numberDouble": "0.06316066"
+    },
+    {
+      "$numberDouble": "0.00577585"
+    },
+    {
+      "$numberDouble": "0.02133886"
+    },
+    {
+      "$numberDouble": "0.00373912"
+    },
+    {
+      "$numberDouble": "0.03763371"
+    },
+    {
+      "$numberDouble": "0.11786472"
+    },
+    {
+      "$numberDouble": "-0.04183147"
+    },
+    {
+      "$numberDouble": "0.04103133"
+    },
+    {
+      "$numberDouble": "-0.10587514"
+    },
+    {
+      "$numberDouble": "-0.00852126"
+    },
+    {
+      "$numberDouble": "-0.08846546"
+    },
+    {
+      "$numberDouble": "0.04320695"
+    },
+    {
+      "$numberDouble": "0.03847973"
+    },
+    {
+      "$numberDouble": "-0.05546257"
+    },
+    {
+      "$numberDouble": "0.05997017"
+    },
+    {
+      "$numberDouble": "0.03997706"
+    },
+    {
+      "$numberDouble": "0.01459722"
+    },
+    {
+      "$numberDouble": "0.03214638"
+    },
+    {
+      "$numberDouble": "0.07071253"
+    },
+    {
+      "$numberDouble": "-0.03739636"
+    },
+    {
+      "$numberDouble": "0.02154143"
+    },
+    {
+      "$numberDouble": "0.05602566"
+    },
+    {
+      "$numberDouble": "-0.03615916"
+    },
+    {
+      "$numberDouble": "0.17437641"
+    },
+    {
+      "$numberDouble": "0.02901354"
+    },
+    {
+      "$numberDouble": "-0.05317064"
+    },
+    {
+      "$numberDouble": "-0.11622936"
+    },
+    {
+      "$numberDouble": "0.0047088"
+    },
+    {
+      "$numberDouble": "-0.03213241"
+    },
+    {
+      "$numberDouble": "0.02452583"
+    },
+    {
+      "$numberDouble": "-0.00064948"
+    },
+    {
+      "$numberDouble": "0.052137"
+    },
+    {
+      "$numberDouble": "-0.06865737"
+    },
+    {
+      "$numberDouble": "0.08957055"
+    },
+    {
+      "$numberDouble": "-0.02741569"
+    },
+    {
+      "$numberDouble": "0.02554798"
+    },
+    {
+      "$numberDouble": "-0.06045998"
+    },
+    {
+      "$numberDouble": "-0.07761434"
+    },
+    {
+      "$numberDouble": "-0.0170513"
+    },
+    {
+      "$numberDouble": "-0.02580602"
+    },
+    {
+      "$numberDouble": "0.02322626"
+    },
+    {
+      "$numberDouble": "0.08968136"
+    },
+    {
+      "$numberDouble": "0.01075543"
+    },
+    {
+      "$numberDouble": "-0.05973058"
+    },
+    {
+      "$numberDouble": "-0.03588713"
+    },
+    {
+      "$numberDouble": "-0.00620591"
+    },
+    {
+      "$numberDouble": "-0.04829192"
+    },
+    {
+      "$numberDouble": "-0.02801546"
+    },
+    {
+      "$numberDouble": "0.1015026"
+    },
+    {
+      "$numberDouble": "0.0266928"
+    },
+    {
+      "$numberDouble": "-0.04245511"
+    },
+    {
+      "$numberDouble": "0.0250741"
+    },
+    {
+      "$numberDouble": "-0.01888112"
+    },
+    {
+      "$numberDouble": "0.06981803"
+    },
+    {
+      "$numberDouble": "-0.05253175"
+    },
+    {
+      "$numberDouble": "-0.11811012"
+    },
+    {
+      "$numberDouble": "0.09620648"
+    },
+    {
+      "$numberDouble": "0.00248457"
+    },
+    {
+      "$numberDouble": "0.03700829"
+    },
+    {
+      "$numberDouble": "-0.03197116"
+    },
+    {
+      "$numberDouble": "-0.09647923"
+    },
+    {
+      "$numberDouble": "-0.03012775"
+    },
+    {
+      "$numberDouble": "0.07062023"
+    },
+    {
+      "$numberDouble": "-0.0396483"
+    },
+    {
+      "$numberDouble": "-0.03269775"
+    },
+    {
+      "$numberDouble": "0.06916218"
+    },
+    {
+      "$numberDouble": "-0.00481673"
+    },
+    {
+      "$numberDouble": "0.02322464"
+    },
+    {
+      "$numberDouble": "-0.03941647"
+    },
+    {
+      "$numberDouble": "0.01773843"
+    },
+    {
+      "$numberDouble": "0.00759943"
+    },
+    {
+      "$numberDouble": "0.04671014"
+    },
+    {
+      "$numberDouble": "0.05816593"
+    },
+    {
+      "$numberDouble": "0.04502477"
+    },
+    {
+      "$numberDouble": "0.00993632"
+    },
+    {
+      "$numberDouble": "0.0203642"
+    },
+    {
+      "$numberDouble": "-0.03017168"
+    },
+    {
+      "$numberDouble": "-0.02765383"
+    },
+    {
+      "$numberDouble": "-0.05956842"
+    },
+    {
+      "$numberDouble": "-0.05269128"
+    },
+    {
+      "$numberDouble": "0.00969185"
+    },
+    {
+      "$numberDouble": "0.02997795"
+    },
+    {
+      "$numberDouble": "0.07730067"
+    },
+    {
+      "$numberDouble": "-0.00131432"
+    },
+    {
+      "$numberDouble": "-0.0593458"
+    },
+    {
+      "$numberDouble": "-0.04455298"
+    },
+    {
+      "$numberDouble": "-0.02386574"
+    },
+    {
+      "$numberDouble": "0.03243214"
+    },
+    {
+      "$numberDouble": "0.08978136"
+    },
+    {
+      "$numberDouble": "0.01720959"
+    },
+    {
+      "$numberDouble": "0.00146423"
+    },
+    {
+      "$numberDouble": "0.06140703"
+    },
+    {
+      "$numberDouble": "0.09535517"
+    },
+    {
+      "$numberDouble": "-0.22290848"
+    },
+    {
+      "$numberDouble": "-0.03013403"
+    },
+    {
+      "$numberDouble": "0.00473033"
+    },
+    {
+      "$numberDouble": "-0.06526029"
+    },
+    {
+      "$numberDouble": "0.03035748"
+    },
+    {
+      "$numberDouble": "0.08366537"
+    },
+    {
+      "$numberDouble": "0.05772286"
+    },
+    {
+      "$numberDouble": "0.03150522"
+    },
+    {
+      "$numberDouble": "-0.04558713"
+    },
+    {
+      "$numberDouble": "-0.03043362"
+    },
+    {
+      "$numberDouble": "-0.02667879"
+    },
+    {
+      "$numberDouble": "-0.03886236"
+    },
+    {
+      "$numberDouble": "0.03658793"
+    },
+    {
+      "$numberDouble": "-0.03138222"
+    },
+    {
+      "$numberDouble": "0.01816013"
+    },
+    {
+      "$numberDouble": "0.01344537"
+    },
+    {
+      "$numberDouble": "0.05842613"
+    },
+    {
+      "$numberDouble": "-0.06154773"
+    },
+    {
+      "$numberDouble": "-0.02468188"
+    },
+    {
+      "$numberDouble": "-0.05352867"
+    },
+    {
+      "$numberDouble": "-0.03025048"
+    },
+    {
+      "$numberDouble": "-0.02944111"
+    },
+    {
+      "$numberDouble": "0.04170107"
+    },
+    {
+      "$numberDouble": "0.07003"
+    },
+    {
+      "$numberDouble": "-0.04255805"
+    },
+    {
+      "$numberDouble": "0.03449957"
+    },
+    {
+      "$numberDouble": "-0.04637421"
+    },
+    {
+      "$numberDouble": "-0.04645605"
+    },
+    {
+      "$numberDouble": "-0.06396587"
+    },
+    {
+      "$numberDouble": "0.07356285"
+    },
+    {
+      "$numberDouble": "-0.03969751"
+    },
+    {
+      "$numberDouble": "-0.0280242"
+    },
+    {
+      "$numberDouble": "0.06066844"
+    },
+    {
+      "$numberDouble": "-0.06454931"
+    },
+    {
+      "$numberDouble": "0.00907925"
+    },
+    {
+      "$numberDouble": "-0.01554983"
+    },
+    {
+      "$numberDouble": "0.05344516"
+    },
+    {
+      "$numberDouble": "-0.0276384"
+    },
+    {
+      "$numberDouble": "0.06161315"
+    },
+    {
+      "$numberDouble": "0.09043989"
+    },
+    {
+      "$numberDouble": "-0.02008218"
+    },
+    {
+      "$numberDouble": "0.01924497"
+    },
+    {
+      "$numberDouble": "-0.00620236"
+    },
+    {
+      "$numberDouble": "-0.01402745"
+    },
+    {
+      "$numberDouble": "0.09488666"
+    },
+    {
+      "$numberDouble": "0.0138879"
+    },
+    {
+      "$numberDouble": "0.0361446"
+    },
+    {
+      "$numberDouble": "-0.05621871"
+    },
+    {
+      "$numberDouble": "-0.04805727"
+    },
+    {
+      "$numberDouble": "-0.06297734"
+    },
+    {
+      "$numberDouble": "0.03609362"
+    },
+    {
+      "$numberDouble": "0.03104056"
+    },
+    {
+      "$numberDouble": "-0.04686938"
+    },
+    {
+      "$numberDouble": "-0.01188223"
+    },
+    {
+      "$numberDouble": "0.02220553"
+    },
+    {
+      "$numberDouble": "0.00925012"
+    },
+    {
+      "$numberDouble": "-0.03199387"
+    },
+    {
+      "$numberDouble": "-0.01854689"
+    },
+    {
+      "$numberDouble": "-0.05982822"
+    },
+    {
+      "$numberDouble": "-0.0607127"
+    },
+    {
+      "$numberDouble": "0.0158356"
+    },
+    {
+      "$numberDouble": "0.02266464"
+    },
+    {
+      "$numberDouble": "-0.01623436"
+    },
+    {
+      "$numberDouble": "-0.06938536"
+    },
+    {
+      "$numberDouble": "0.05688016"
+    }
+  ],
+  "modelo_embedding": "paraphrase-multilingual-MiniLM-L12-v2"
+},
+{
+  "_id": {
+    "$oid": "6b006616df9dadfa57b11632"
+  },
+  "codigo_novedad": "NOV-002",
+  "descripcion": "Bloqueo temporal de la via por manifestacion.",
+  "entorno": "DEMOSTRACION",
+  "estado": "PENDIENTE",
+  "id_despacho": {
+    "$numberInt": "2"
+  },
+  "impacto": {
+    "minutos_retraso": {
+      "$numberInt": "120"
+    }
+  },
+  "tipo": "BLOQUEO_VIAL",
+  "ubicacion": {
+    "municipio": "Corozal",
+    "departamento": "Sucre"
+  },
+  "embedding": [
+    {
+      "$numberDouble": "0.06838391"
+    },
+    {
+      "$numberDouble": "0.03689168"
+    },
+    {
+      "$numberDouble": "-0.04689564"
+    },
+    {
+      "$numberDouble": "0.02896557"
+    },
+    {
+      "$numberDouble": "0.10511737"
+    },
+    {
+      "$numberDouble": "0.10816148"
+    },
+    {
+      "$numberDouble": "-0.00376038"
+    },
+    {
+      "$numberDouble": "-0.06958099"
+    },
+    {
+      "$numberDouble": "-0.02623051"
+    },
+    {
+      "$numberDouble": "0.05536526"
+    },
+    {
+      "$numberDouble": "0.0266571"
+    },
+    {
+      "$numberDouble": "0.10232057"
+    },
+    {
+      "$numberDouble": "0.06165997"
+    },
+    {
+      "$numberDouble": "-0.02048121"
+    },
+    {
+      "$numberDouble": "0.00224311"
+    },
+    {
+      "$numberDouble": "0.03377653"
+    },
+    {
+      "$numberDouble": "0.02842662"
+    },
+    {
+      "$numberDouble": "0.00249013"
+    },
+    {
+      "$numberDouble": "0.0565253"
+    },
+    {
+      "$numberDouble": "0.06010793"
+    },
+    {
+      "$numberDouble": "0.027636"
+    },
+    {
+      "$numberDouble": "-0.04613064"
+    },
+    {
+      "$numberDouble": "0.05988964"
+    },
+    {
+      "$numberDouble": "0.07620951"
+    },
+    {
+      "$numberDouble": "-0.05064337"
+    },
+    {
+      "$numberDouble": "0.03544906"
+    },
+    {
+      "$numberDouble": "0.02419634"
+    },
+    {
+      "$numberDouble": "0.01561528"
+    },
+    {
+      "$numberDouble": "-0.00792383"
+    },
+    {
+      "$numberDouble": "0.00383597"
+    },
+    {
+      "$numberDouble": "-0.0112233"
+    },
+    {
+      "$numberDouble": "-0.05447146"
+    },
+    {
+      "$numberDouble": "-0.00690242"
+    },
+    {
+      "$numberDouble": "0.0956367"
+    },
+    {
+      "$numberDouble": "0.06936333"
+    },
+    {
+      "$numberDouble": "-0.02633424"
+    },
+    {
+      "$numberDouble": "0.11357051"
+    },
+    {
+      "$numberDouble": "0.05258322"
+    },
+    {
+      "$numberDouble": "0.04167368"
+    },
+    {
+      "$numberDouble": "0.06417305"
+    },
+    {
+      "$numberDouble": "0.01667554"
+    },
+    {
+      "$numberDouble": "-0.02884167"
+    },
+    {
+      "$numberDouble": "-0.0162894"
+    },
+    {
+      "$numberDouble": "0.00713153"
+    },
+    {
+      "$numberDouble": "0.03640061"
+    },
+    {
+      "$numberDouble": "-0.03237979"
+    },
+    {
+      "$numberDouble": "0.00540087"
+    },
+    {
+      "$numberDouble": "0.00191528"
+    },
+    {
+      "$numberDouble": "-0.05704084"
+    },
+    {
+      "$numberDouble": "-0.059917"
+    },
+    {
+      "$numberDouble": "0.05854585"
+    },
+    {
+      "$numberDouble": "-0.01169723"
+    },
+    {
+      "$numberDouble": "0.05710325"
+    },
+    {
+      "$numberDouble": "-0.0380307"
+    },
+    {
+      "$numberDouble": "-0.02944521"
+    },
+    {
+      "$numberDouble": "-0.08822487"
+    },
+    {
+      "$numberDouble": "-0.01056135"
+    },
+    {
+      "$numberDouble": "0.04611507"
+    },
+    {
+      "$numberDouble": "-0.00017731"
+    },
+    {
+      "$numberDouble": "0.01854434"
+    },
+    {
+      "$numberDouble": "0.00426459"
+    },
+    {
+      "$numberDouble": "-0.03594657"
+    },
+    {
+      "$numberDouble": "-0.07119878"
+    },
+    {
+      "$numberDouble": "0.05229639"
+    },
+    {
+      "$numberDouble": "-0.06048602"
+    },
+    {
+      "$numberDouble": "0.01873844"
+    },
+    {
+      "$numberDouble": "-0.00240657"
+    },
+    {
+      "$numberDouble": "-0.03053709"
+    },
+    {
+      "$numberDouble": "0.01258391"
+    },
+    {
+      "$numberDouble": "0.07868341"
+    },
+    {
+      "$numberDouble": "-0.03393637"
+    },
+    {
+      "$numberDouble": "-0.00134519"
+    },
+    {
+      "$numberDouble": "-0.04625106"
+    },
+    {
+      "$numberDouble": "-0.05288517"
+    },
+    {
+      "$numberDouble": "0.04919327"
+    },
+    {
+      "$numberDouble": "0.0196641"
+    },
+    {
+      "$numberDouble": "-0.05131019"
+    },
+    {
+      "$numberDouble": "0.08452612"
+    },
+    {
+      "$numberDouble": "0.02499516"
+    },
+    {
+      "$numberDouble": "-0.14029641"
+    },
+    {
+      "$numberDouble": "0.01694879"
+    },
+    {
+      "$numberDouble": "-0.04341109"
+    },
+    {
+      "$numberDouble": "-0.02309763"
+    },
+    {
+      "$numberDouble": "0.02495252"
+    },
+    {
+      "$numberDouble": "-0.00980335"
+    },
+    {
+      "$numberDouble": "0.03780283"
+    },
+    {
+      "$numberDouble": "0.00750305"
+    },
+    {
+      "$numberDouble": "0.09308195"
+    },
+    {
+      "$numberDouble": "0.02486548"
+    },
+    {
+      "$numberDouble": "-0.06240428"
+    },
+    {
+      "$numberDouble": "0.01167865"
+    },
+    {
+      "$numberDouble": "0.00188665"
+    },
+    {
+      "$numberDouble": "0.0607683"
+    },
+    {
+      "$numberDouble": "0.0094352"
+    },
+    {
+      "$numberDouble": "-0.01114632"
+    },
+    {
+      "$numberDouble": "-0.05329648"
+    },
+    {
+      "$numberDouble": "-0.01475909"
+    },
+    {
+      "$numberDouble": "-0.02237885"
+    },
+    {
+      "$numberDouble": "0.07092069"
+    },
+    {
+      "$numberDouble": "0.12128791"
+    },
+    {
+      "$numberDouble": "-0.03898485"
+    },
+    {
+      "$numberDouble": "0.00475905"
+    },
+    {
+      "$numberDouble": "-0.05517763"
+    },
+    {
+      "$numberDouble": "0.01747612"
+    },
+    {
+      "$numberDouble": "0.03707641"
+    },
+    {
+      "$numberDouble": "0.02765388"
+    },
+    {
+      "$numberDouble": "0.03418341"
+    },
+    {
+      "$numberDouble": "-0.12546971"
+    },
+    {
+      "$numberDouble": "-0.11106576"
+    },
+    {
+      "$numberDouble": "0.06907959"
+    },
+    {
+      "$numberDouble": "0.02830329"
+    },
+    {
+      "$numberDouble": "-0.04773707"
+    },
+    {
+      "$numberDouble": "-0.00038507"
+    },
+    {
+      "$numberDouble": "0.00173755"
+    },
+    {
+      "$numberDouble": "0.02399261"
+    },
+    {
+      "$numberDouble": "-0.02785279"
+    },
+    {
+      "$numberDouble": "-0.00873798"
+    },
+    {
+      "$numberDouble": "0.04305029"
+    },
+    {
+      "$numberDouble": "-0.0423464"
+    },
+    {
+      "$numberDouble": "0.05572248"
+    },
+    {
+      "$numberDouble": "-0.07933176"
+    },
+    {
+      "$numberDouble": "-0.06527118"
+    },
+    {
+      "$numberDouble": "-0.03409944"
+    },
+    {
+      "$numberDouble": "-0.03344003"
+    },
+    {
+      "$numberDouble": "0.0563823"
+    },
+    {
+      "$numberDouble": "-0.03407115"
+    },
+    {
+      "$numberDouble": "-0.01006669"
+    },
+    {
+      "$numberDouble": "0.03109278"
+    },
+    {
+      "$numberDouble": "-0.03772217"
+    },
+    {
+      "$numberDouble": "-0.01396471"
+    },
+    {
+      "$numberDouble": "-0.05950287"
+    },
+    {
+      "$numberDouble": "0.0598155"
+    },
+    {
+      "$numberDouble": "0.06877745"
+    },
+    {
+      "$numberDouble": "-0.01727603"
+    },
+    {
+      "$numberDouble": "-0.06788064"
+    },
+    {
+      "$numberDouble": "-0.06930986"
+    },
+    {
+      "$numberDouble": "-0.04149866"
+    },
+    {
+      "$numberDouble": "0.01995786"
+    },
+    {
+      "$numberDouble": "0.06884822"
+    },
+    {
+      "$numberDouble": "-0.08084523"
+    },
+    {
+      "$numberDouble": "0.05688712"
+    },
+    {
+      "$numberDouble": "0.06739659"
+    },
+    {
+      "$numberDouble": "0.02155538"
+    },
+    {
+      "$numberDouble": "0.01461532"
+    },
+    {
+      "$numberDouble": "0.07535166"
+    },
+    {
+      "$numberDouble": "-0.02360229"
+    },
+    {
+      "$numberDouble": "-0.05887773"
+    },
+    {
+      "$numberDouble": "-0.02164426"
+    },
+    {
+      "$numberDouble": "0.0082861"
+    },
+    {
+      "$numberDouble": "-0.05159664"
+    },
+    {
+      "$numberDouble": "0.06706443"
+    },
+    {
+      "$numberDouble": "0.00512455"
+    },
+    {
+      "$numberDouble": "-0.02206153"
+    },
+    {
+      "$numberDouble": "0.0188014"
+    },
+    {
+      "$numberDouble": "0.00035823"
+    },
+    {
+      "$numberDouble": "0.04636465"
+    },
+    {
+      "$numberDouble": "0.09105477"
+    },
+    {
+      "$numberDouble": "0.01367601"
+    },
+    {
+      "$numberDouble": "-0.01074773"
+    },
+    {
+      "$numberDouble": "0.0259634"
+    },
+    {
+      "$numberDouble": "0.03091554"
+    },
+    {
+      "$numberDouble": "0.02277904"
+    },
+    {
+      "$numberDouble": "0.01467402"
+    },
+    {
+      "$numberDouble": "0.07489933"
+    },
+    {
+      "$numberDouble": "0.04212895"
+    },
+    {
+      "$numberDouble": "-0.06464576"
+    },
+    {
+      "$numberDouble": "-0.01973972"
+    },
+    {
+      "$numberDouble": "0.01233357"
+    },
+    {
+      "$numberDouble": "0.00155194"
+    },
+    {
+      "$numberDouble": "-0.00750276"
+    },
+    {
+      "$numberDouble": "-0.03573903"
+    },
+    {
+      "$numberDouble": "-0.08112521"
+    },
+    {
+      "$numberDouble": "0.00706998"
+    },
+    {
+      "$numberDouble": "0.01306868"
+    },
+    {
+      "$numberDouble": "0.02000921"
+    },
+    {
+      "$numberDouble": "-0.01288798"
+    },
+    {
+      "$numberDouble": "-0.041409"
+    },
+    {
+      "$numberDouble": "0.05896414"
+    },
+    {
+      "$numberDouble": "-0.07758848"
+    },
+    {
+      "$numberDouble": "0.02723649"
+    },
+    {
+      "$numberDouble": "-0.05459432"
+    },
+    {
+      "$numberDouble": "-0.09318607"
+    },
+    {
+      "$numberDouble": "-0.07188858"
+    },
+    {
+      "$numberDouble": "-0.03291778"
+    },
+    {
+      "$numberDouble": "-0.01920573"
+    },
+    {
+      "$numberDouble": "-0.05065332"
+    },
+    {
+      "$numberDouble": "-0.02027448"
+    },
+    {
+      "$numberDouble": "-0.01711732"
+    },
+    {
+      "$numberDouble": "-0.00436254"
+    },
+    {
+      "$numberDouble": "0.01524978"
+    },
+    {
+      "$numberDouble": "-0.01867199"
+    },
+    {
+      "$numberDouble": "-0.02941396"
+    },
+    {
+      "$numberDouble": "0.019673"
+    },
+    {
+      "$numberDouble": "0.0110186"
+    },
+    {
+      "$numberDouble": "-0.04135142"
+    },
+    {
+      "$numberDouble": "0.08883844"
+    },
+    {
+      "$numberDouble": "-0.07189495"
+    },
+    {
+      "$numberDouble": "-0.01202955"
+    },
+    {
+      "$numberDouble": "0.0419083"
+    },
+    {
+      "$numberDouble": "0.0011561"
+    },
+    {
+      "$numberDouble": "-0.0662936"
+    },
+    {
+      "$numberDouble": "0.04214679"
+    },
+    {
+      "$numberDouble": "-0.04971889"
+    },
+    {
+      "$numberDouble": "-0.04808804"
+    },
+    {
+      "$numberDouble": "0.01390646"
+    },
+    {
+      "$numberDouble": "0.01013434"
+    },
+    {
+      "$numberDouble": "0.09612505"
+    },
+    {
+      "$numberDouble": "-0.12932235"
+    },
+    {
+      "$numberDouble": "-0.0112609"
+    },
+    {
+      "$numberDouble": "0.01188213"
+    },
+    {
+      "$numberDouble": "0.07002947"
+    },
+    {
+      "$numberDouble": "0.04447372"
+    },
+    {
+      "$numberDouble": "0.07639471"
+    },
+    {
+      "$numberDouble": "-0.11495505"
+    },
+    {
+      "$numberDouble": "0.02249813"
+    },
+    {
+      "$numberDouble": "-0.01684157"
+    },
+    {
+      "$numberDouble": "-0.02711015"
+    },
+    {
+      "$numberDouble": "0.01908189"
+    },
+    {
+      "$numberDouble": "-0.17176573"
+    },
+    {
+      "$numberDouble": "0.09203042"
+    },
+    {
+      "$numberDouble": "-0.01202479"
+    },
+    {
+      "$numberDouble": "0.00543846"
+    },
+    {
+      "$numberDouble": "-0.00617907"
+    },
+    {
+      "$numberDouble": "-0.07100812"
+    },
+    {
+      "$numberDouble": "-0.02500843"
+    },
+    {
+      "$numberDouble": "0.0230941"
+    },
+    {
+      "$numberDouble": "0.01289382"
+    },
+    {
+      "$numberDouble": "-0.00398649"
+    },
+    {
+      "$numberDouble": "0.01682843"
+    },
+    {
+      "$numberDouble": "0.06981404"
+    },
+    {
+      "$numberDouble": "0.0333042"
+    },
+    {
+      "$numberDouble": "-0.05636082"
+    },
+    {
+      "$numberDouble": "0.01520226"
+    },
+    {
+      "$numberDouble": "0.07314005"
+    },
+    {
+      "$numberDouble": "-0.12214801"
+    },
+    {
+      "$numberDouble": "-0.02213796"
+    },
+    {
+      "$numberDouble": "0.02180831"
+    },
+    {
+      "$numberDouble": "0.01995947"
+    },
+    {
+      "$numberDouble": "-0.035346"
+    },
+    {
+      "$numberDouble": "-0.08599162"
+    },
+    {
+      "$numberDouble": "-0.01576717"
+    },
+    {
+      "$numberDouble": "0.04508856"
+    },
+    {
+      "$numberDouble": "-0.03131149"
+    },
+    {
+      "$numberDouble": "-0.06711935"
+    },
+    {
+      "$numberDouble": "-0.00279848"
+    },
+    {
+      "$numberDouble": "-0.10704215"
+    },
+    {
+      "$numberDouble": "-0.03314555"
+    },
+    {
+      "$numberDouble": "0.08546416"
+    },
+    {
+      "$numberDouble": "-0.02323837"
+    },
+    {
+      "$numberDouble": "0.08202268"
+    },
+    {
+      "$numberDouble": "-0.01222128"
+    },
+    {
+      "$numberDouble": "-0.0586812"
+    },
+    {
+      "$numberDouble": "-0.02817623"
+    },
+    {
+      "$numberDouble": "-0.01045662"
+    },
+    {
+      "$numberDouble": "-0.01540154"
+    },
+    {
+      "$numberDouble": "-0.05641173"
+    },
+    {
+      "$numberDouble": "-0.09032793"
+    },
+    {
+      "$numberDouble": "-0.02239275"
+    },
+    {
+      "$numberDouble": "-0.01164064"
+    },
+    {
+      "$numberDouble": "0.0100519"
+    },
+    {
+      "$numberDouble": "-0.00925417"
+    },
+    {
+      "$numberDouble": "0.01724656"
+    },
+    {
+      "$numberDouble": "-0.00719213"
+    },
+    {
+      "$numberDouble": "0.02531405"
+    },
+    {
+      "$numberDouble": "0.09014808"
+    },
+    {
+      "$numberDouble": "0.04937792"
+    },
+    {
+      "$numberDouble": "0.06657682"
+    },
+    {
+      "$numberDouble": "0.02862943"
+    },
+    {
+      "$numberDouble": "-0.03612324"
+    },
+    {
+      "$numberDouble": "0.07488079"
+    },
+    {
+      "$numberDouble": "-0.01765336"
+    },
+    {
+      "$numberDouble": "-0.02567861"
+    },
+    {
+      "$numberDouble": "-0.11804936"
+    },
+    {
+      "$numberDouble": "-0.04523417"
+    },
+    {
+      "$numberDouble": "0.02545497"
+    },
+    {
+      "$numberDouble": "0.01935693"
+    },
+    {
+      "$numberDouble": "0.03813779"
+    },
+    {
+      "$numberDouble": "0.04777048"
+    },
+    {
+      "$numberDouble": "0.00402631"
+    },
+    {
+      "$numberDouble": "0.08650031"
+    },
+    {
+      "$numberDouble": "-0.08665961"
+    },
+    {
+      "$numberDouble": "0.04065123"
+    },
+    {
+      "$numberDouble": "0.0209501"
+    },
+    {
+      "$numberDouble": "0.0243931"
+    },
+    {
+      "$numberDouble": "-0.0123405"
+    },
+    {
+      "$numberDouble": "-0.00056698"
+    },
+    {
+      "$numberDouble": "-0.10520551"
+    },
+    {
+      "$numberDouble": "0.0072354"
+    },
+    {
+      "$numberDouble": "0.07984657"
+    },
+    {
+      "$numberDouble": "-0.00896875"
+    },
+    {
+      "$numberDouble": "-0.05613734"
+    },
+    {
+      "$numberDouble": "-0.06669807"
+    },
+    {
+      "$numberDouble": "0.11573402"
+    },
+    {
+      "$numberDouble": "-0.01388002"
+    },
+    {
+      "$numberDouble": "-0.01854165"
+    },
+    {
+      "$numberDouble": "0.01187855"
+    },
+    {
+      "$numberDouble": "-0.01880071"
+    },
+    {
+      "$numberDouble": "0.01079716"
+    },
+    {
+      "$numberDouble": "0.00155975"
+    },
+    {
+      "$numberDouble": "-0.0229311"
+    },
+    {
+      "$numberDouble": "0.05844843"
+    },
+    {
+      "$numberDouble": "0.01491489"
+    },
+    {
+      "$numberDouble": "0.04609304"
+    },
+    {
+      "$numberDouble": "-0.01449323"
+    },
+    {
+      "$numberDouble": "0.03196936"
+    },
+    {
+      "$numberDouble": "-0.03198559"
+    },
+    {
+      "$numberDouble": "-0.00032279"
+    },
+    {
+      "$numberDouble": "-0.01570887"
+    },
+    {
+      "$numberDouble": "-0.0227472"
+    },
+    {
+      "$numberDouble": "0.04329154"
+    },
+    {
+      "$numberDouble": "0.03438855"
+    },
+    {
+      "$numberDouble": "0.00629258"
+    },
+    {
+      "$numberDouble": "0.05620446"
+    },
+    {
+      "$numberDouble": "0.07802657"
+    },
+    {
+      "$numberDouble": "0.06153122"
+    },
+    {
+      "$numberDouble": "0.06338762"
+    },
+    {
+      "$numberDouble": "-0.08788101"
+    },
+    {
+      "$numberDouble": "0.08805652"
+    },
+    {
+      "$numberDouble": "0.04296263"
+    },
+    {
+      "$numberDouble": "-0.14970078"
+    },
+    {
+      "$numberDouble": "-0.01097887"
+    },
+    {
+      "$numberDouble": "0.0118791"
+    },
+    {
+      "$numberDouble": "-0.05818679"
+    },
+    {
+      "$numberDouble": "0.02759402"
+    },
+    {
+      "$numberDouble": "0.04525287"
+    },
+    {
+      "$numberDouble": "0.11155214"
+    },
+    {
+      "$numberDouble": "0.05108634"
+    },
+    {
+      "$numberDouble": "-0.12229764"
+    },
+    {
+      "$numberDouble": "-0.03106946"
+    },
+    {
+      "$numberDouble": "-0.09734172"
+    },
+    {
+      "$numberDouble": "0.01462603"
+    },
+    {
+      "$numberDouble": "-0.00471815"
+    },
+    {
+      "$numberDouble": "-0.0452003"
+    },
+    {
+      "$numberDouble": "-0.05165736"
+    },
+    {
+      "$numberDouble": "-0.03283393"
+    },
+    {
+      "$numberDouble": "-0.0196382"
+    },
+    {
+      "$numberDouble": "0.0073141"
+    },
+    {
+      "$numberDouble": "-0.04758402"
+    },
+    {
+      "$numberDouble": "-0.05419467"
+    },
+    {
+      "$numberDouble": "0.01835554"
+    },
+    {
+      "$numberDouble": "-0.00419352"
+    },
+    {
+      "$numberDouble": "0.03513984"
+    },
+    {
+      "$numberDouble": "-0.03556017"
+    },
+    {
+      "$numberDouble": "-0.02307658"
+    },
+    {
+      "$numberDouble": "-0.00935497"
+    },
+    {
+      "$numberDouble": "-0.00776624"
+    },
+    {
+      "$numberDouble": "-0.02949746"
+    },
+    {
+      "$numberDouble": "0.01565057"
+    },
+    {
+      "$numberDouble": "0.01168914"
+    },
+    {
+      "$numberDouble": "-0.01721083"
+    },
+    {
+      "$numberDouble": "-0.04484249"
+    },
+    {
+      "$numberDouble": "0.00872676"
+    },
+    {
+      "$numberDouble": "-0.06051068"
+    },
+    {
+      "$numberDouble": "0.00616619"
+    },
+    {
+      "$numberDouble": "-0.00450804"
+    },
+    {
+      "$numberDouble": "0.08576939"
+    },
+    {
+      "$numberDouble": "-0.03710669"
+    },
+    {
+      "$numberDouble": "0.01343358"
+    },
+    {
+      "$numberDouble": "0.05596662"
+    },
+    {
+      "$numberDouble": "0.00903207"
+    },
+    {
+      "$numberDouble": "0.0411223"
+    },
+    {
+      "$numberDouble": "0.00040553"
+    },
+    {
+      "$numberDouble": "-0.03323228"
+    },
+    {
+      "$numberDouble": "0.03017942"
+    },
+    {
+      "$numberDouble": "0.0573095"
+    },
+    {
+      "$numberDouble": "0.02376069"
+    },
+    {
+      "$numberDouble": "-0.07695332"
+    },
+    {
+      "$numberDouble": "-0.01486765"
+    },
+    {
+      "$numberDouble": "0.00914423"
+    },
+    {
+      "$numberDouble": "-0.06052721"
+    },
+    {
+      "$numberDouble": "-0.03578646"
+    },
+    {
+      "$numberDouble": "-0.14348073"
+    },
+    {
+      "$numberDouble": "0.06553274"
+    },
+    {
+      "$numberDouble": "0.04042361"
+    },
+    {
+      "$numberDouble": "0.07070682"
+    },
+    {
+      "$numberDouble": "-0.02561798"
+    },
+    {
+      "$numberDouble": "0.00239247"
+    },
+    {
+      "$numberDouble": "0.02440391"
+    },
+    {
+      "$numberDouble": "-0.03164745"
+    },
+    {
+      "$numberDouble": "0.04268768"
+    },
+    {
+      "$numberDouble": "-0.02372106"
+    },
+    {
+      "$numberDouble": "0.01265941"
+    },
+    {
+      "$numberDouble": "-0.08690337"
+    },
+    {
+      "$numberDouble": "0.07835576"
+    }
+  ],
+  "modelo_embedding": "paraphrase-multilingual-MiniLM-L12-v2"
+},
+{
+  "_id": {
+    "$oid": "6b006617df9dadfa57b11633"
+  },
+  "codigo_novedad": "NOV-003",
+  "descripcion": "Cliente devuelve dos productos por empaque mojado.",
+  "entorno": "DEMOSTRACION",
+  "estado": "EN_REVISION",
+  "firma": {
+    "archivo": "firma_recibido.png"
+  },
+  "id_despacho": {
+    "$numberInt": "3"
+  },
+  "productos_devueltos": [
+    {
+      "producto": "Yuca",
+      "cantidad": {
+        "$numberInt": "2"
+      },
+      "motivo": "Empaque mojado"
+    }
+  ],
+  "tipo": "DEVOLUCION_PARCIAL",
+  "ubicacion": {
+    "municipio": "Sampues",
+    "departamento": "Sucre"
+  },
+  "embedding": [
+    {
+      "$numberDouble": "-0.02275775"
+    },
+    {
+      "$numberDouble": "0.03698104"
+    },
+    {
+      "$numberDouble": "0.01139534"
+    },
+    {
+      "$numberDouble": "-0.0017545"
+    },
+    {
+      "$numberDouble": "-0.00206088"
+    },
+    {
+      "$numberDouble": "-0.09689916"
+    },
+    {
+      "$numberDouble": "0.11796893"
+    },
+    {
+      "$numberDouble": "0.01549614"
+    },
+    {
+      "$numberDouble": "-0.01952637"
+    },
+    {
+      "$numberDouble": "-0.05878715"
+    },
+    {
+      "$numberDouble": "0.00791262"
+    },
+    {
+      "$numberDouble": "-0.03410466"
+    },
+    {
+      "$numberDouble": "-0.05563213"
+    },
+    {
+      "$numberDouble": "-0.04199723"
+    },
+    {
+      "$numberDouble": "-0.02638089"
+    },
+    {
+      "$numberDouble": "0.00164102"
+    },
+    {
+      "$numberDouble": "0.01019544"
+    },
+    {
+      "$numberDouble": "0.04719118"
+    },
+    {
+      "$numberDouble": "-0.02619202"
+    },
+    {
+      "$numberDouble": "0.01292375"
+    },
+    {
+      "$numberDouble": "0.01404278"
+    },
+    {
+      "$numberDouble": "0.0035738"
+    },
+    {
+      "$numberDouble": "-0.07121516"
+    },
+    {
+      "$numberDouble": "0.03581996"
+    },
+    {
+      "$numberDouble": "-0.00606974"
+    },
+    {
+      "$numberDouble": "0.12158654"
+    },
+    {
+      "$numberDouble": "-0.09868143"
+    },
+    {
+      "$numberDouble": "0.02195692"
+    },
+    {
+      "$numberDouble": "0.0211489"
+    },
+    {
+      "$numberDouble": "-0.08104263"
+    },
+    {
+      "$numberDouble": "0.01780627"
+    },
+    {
+      "$numberDouble": "-0.03686404"
+    },
+    {
+      "$numberDouble": "-0.09649031"
+    },
+    {
+      "$numberDouble": "-0.04098909"
+    },
+    {
+      "$numberDouble": "0.04326813"
+    },
+    {
+      "$numberDouble": "-0.02373519"
+    },
+    {
+      "$numberDouble": "-0.00724245"
+    },
+    {
+      "$numberDouble": "-0.03046335"
+    },
+    {
+      "$numberDouble": "-0.04019601"
+    },
+    {
+      "$numberDouble": "-0.03122578"
+    },
+    {
+      "$numberDouble": "0.03436197"
+    },
+    {
+      "$numberDouble": "0.04632555"
+    },
+    {
+      "$numberDouble": "-0.04321918"
+    },
+    {
+      "$numberDouble": "0.0084517"
+    },
+    {
+      "$numberDouble": "-0.02430187"
+    },
+    {
+      "$numberDouble": "0.02960775"
+    },
+    {
+      "$numberDouble": "-0.0148201"
+    },
+    {
+      "$numberDouble": "0.03543416"
+    },
+    {
+      "$numberDouble": "0.07511213"
+    },
+    {
+      "$numberDouble": "0.01376349"
+    },
+    {
+      "$numberDouble": "0.05469971"
+    },
+    {
+      "$numberDouble": "-0.0485703"
+    },
+    {
+      "$numberDouble": "-0.01772713"
+    },
+    {
+      "$numberDouble": "0.01481173"
+    },
+    {
+      "$numberDouble": "-0.04905509"
+    },
+    {
+      "$numberDouble": "0.01974753"
+    },
+    {
+      "$numberDouble": "0.0147031"
+    },
+    {
+      "$numberDouble": "-0.05115756"
+    },
+    {
+      "$numberDouble": "-0.12471354"
+    },
+    {
+      "$numberDouble": "0.00988131"
+    },
+    {
+      "$numberDouble": "0.01198402"
+    },
+    {
+      "$numberDouble": "-0.01142105"
+    },
+    {
+      "$numberDouble": "-0.06796387"
+    },
+    {
+      "$numberDouble": "0.09316833"
+    },
+    {
+      "$numberDouble": "-0.02239453"
+    },
+    {
+      "$numberDouble": "0.00660396"
+    },
+    {
+      "$numberDouble": "-0.09940013"
+    },
+    {
+      "$numberDouble": "0.04168902"
+    },
+    {
+      "$numberDouble": "0.01598699"
+    },
+    {
+      "$numberDouble": "0.02216289"
+    },
+    {
+      "$numberDouble": "-0.02655859"
+    },
+    {
+      "$numberDouble": "0.03239378"
+    },
+    {
+      "$numberDouble": "-0.03952856"
+    },
+    {
+      "$numberDouble": "-0.08913749"
+    },
+    {
+      "$numberDouble": "-0.00684476"
+    },
+    {
+      "$numberDouble": "0.00297877"
+    },
+    {
+      "$numberDouble": "0.00866304"
+    },
+    {
+      "$numberDouble": "-0.03547689"
+    },
+    {
+      "$numberDouble": "-0.04476112"
+    },
+    {
+      "$numberDouble": "-0.00087893"
+    },
+    {
+      "$numberDouble": "-0.0071016"
+    },
+    {
+      "$numberDouble": "-0.02147213"
+    },
+    {
+      "$numberDouble": "-0.00802999"
+    },
+    {
+      "$numberDouble": "-0.00072524"
+    },
+    {
+      "$numberDouble": "-0.04962094"
+    },
+    {
+      "$numberDouble": "0.14261289"
+    },
+    {
+      "$numberDouble": "-0.00262722"
+    },
+    {
+      "$numberDouble": "0.04433773"
+    },
+    {
+      "$numberDouble": "0.01088734"
+    },
+    {
+      "$numberDouble": "-0.02787771"
+    },
+    {
+      "$numberDouble": "0.02542426"
+    },
+    {
+      "$numberDouble": "0.0244964"
+    },
+    {
+      "$numberDouble": "0.08460826"
+    },
+    {
+      "$numberDouble": "-0.00640783"
+    },
+    {
+      "$numberDouble": "0.06959675"
+    },
+    {
+      "$numberDouble": "0.0197644"
+    },
+    {
+      "$numberDouble": "-0.06823511"
+    },
+    {
+      "$numberDouble": "-0.03835635"
+    },
+    {
+      "$numberDouble": "0.08182646"
+    },
+    {
+      "$numberDouble": "0.11257201"
+    },
+    {
+      "$numberDouble": "-0.03377293"
+    },
+    {
+      "$numberDouble": "-0.03434238"
+    },
+    {
+      "$numberDouble": "0.03881815"
+    },
+    {
+      "$numberDouble": "-0.06059735"
+    },
+    {
+      "$numberDouble": "0.06505408"
+    },
+    {
+      "$numberDouble": "-0.02066615"
+    },
+    {
+      "$numberDouble": "0.04630597"
+    },
+    {
+      "$numberDouble": "-0.06346161"
+    },
+    {
+      "$numberDouble": "-0.01448241"
+    },
+    {
+      "$numberDouble": "-0.0097768"
+    },
+    {
+      "$numberDouble": "-0.07617666"
+    },
+    {
+      "$numberDouble": "0.0083727"
+    },
+    {
+      "$numberDouble": "-0.01139706"
+    },
+    {
+      "$numberDouble": "0.08798087"
+    },
+    {
+      "$numberDouble": "-0.0398975"
+    },
+    {
+      "$numberDouble": "0.0533279"
+    },
+    {
+      "$numberDouble": "-0.071163"
+    },
+    {
+      "$numberDouble": "0.03013352"
+    },
+    {
+      "$numberDouble": "-0.03153991"
+    },
+    {
+      "$numberDouble": "0.00281471"
+    },
+    {
+      "$numberDouble": "0.00468573"
+    },
+    {
+      "$numberDouble": "-0.02565621"
+    },
+    {
+      "$numberDouble": "0.07408719"
+    },
+    {
+      "$numberDouble": "-0.1012539"
+    },
+    {
+      "$numberDouble": "-0.07602275"
+    },
+    {
+      "$numberDouble": "-0.12359169"
+    },
+    {
+      "$numberDouble": "0.08984253"
+    },
+    {
+      "$numberDouble": "-0.06619137"
+    },
+    {
+      "$numberDouble": "-0.0927323"
+    },
+    {
+      "$numberDouble": "0.00872761"
+    },
+    {
+      "$numberDouble": "0.02797065"
+    },
+    {
+      "$numberDouble": "-0.00918622"
+    },
+    {
+      "$numberDouble": "0.01442255"
+    },
+    {
+      "$numberDouble": "0.00196623"
+    },
+    {
+      "$numberDouble": "0.03511148"
+    },
+    {
+      "$numberDouble": "-0.00577057"
+    },
+    {
+      "$numberDouble": "0.01073333"
+    },
+    {
+      "$numberDouble": "0.01917237"
+    },
+    {
+      "$numberDouble": "-0.04386901"
+    },
+    {
+      "$numberDouble": "0.02941173"
+    },
+    {
+      "$numberDouble": "-0.00814145"
+    },
+    {
+      "$numberDouble": "0.07041571"
+    },
+    {
+      "$numberDouble": "-0.07565071"
+    },
+    {
+      "$numberDouble": "-0.04233093"
+    },
+    {
+      "$numberDouble": "0.07257193"
+    },
+    {
+      "$numberDouble": "0.02758326"
+    },
+    {
+      "$numberDouble": "-0.00682439"
+    },
+    {
+      "$numberDouble": "-0.0704779"
+    },
+    {
+      "$numberDouble": "-0.00452564"
+    },
+    {
+      "$numberDouble": "0.0303327"
+    },
+    {
+      "$numberDouble": "-0.07326743"
+    },
+    {
+      "$numberDouble": "-0.00632053"
+    },
+    {
+      "$numberDouble": "0.01293536"
+    },
+    {
+      "$numberDouble": "-0.03386834"
+    },
+    {
+      "$numberDouble": "0.01206761"
+    },
+    {
+      "$numberDouble": "0.02045972"
+    },
+    {
+      "$numberDouble": "0.04338642"
+    },
+    {
+      "$numberDouble": "0.02273954"
+    },
+    {
+      "$numberDouble": "-0.00504352"
+    },
+    {
+      "$numberDouble": "0.04266615"
+    },
+    {
+      "$numberDouble": "0.01138389"
+    },
+    {
+      "$numberDouble": "-0.0454586"
+    },
+    {
+      "$numberDouble": "-0.06072707"
+    },
+    {
+      "$numberDouble": "0.01428053"
+    },
+    {
+      "$numberDouble": "0.01872484"
+    },
+    {
+      "$numberDouble": "-0.00031621"
+    },
+    {
+      "$numberDouble": "0.04113889"
+    },
+    {
+      "$numberDouble": "-0.01450903"
+    },
+    {
+      "$numberDouble": "0.02404805"
+    },
+    {
+      "$numberDouble": "0.0268233"
+    },
+    {
+      "$numberDouble": "-0.02682186"
+    },
+    {
+      "$numberDouble": "0.01721381"
+    },
+    {
+      "$numberDouble": "-0.10326693"
+    },
+    {
+      "$numberDouble": "-0.05141131"
+    },
+    {
+      "$numberDouble": "-0.09899117"
+    },
+    {
+      "$numberDouble": "-0.02789446"
+    },
+    {
+      "$numberDouble": "-0.03682095"
+    },
+    {
+      "$numberDouble": "-0.05166537"
+    },
+    {
+      "$numberDouble": "0.03276225"
+    },
+    {
+      "$numberDouble": "0.00708356"
+    },
+    {
+      "$numberDouble": "0.01462092"
+    },
+    {
+      "$numberDouble": "0.05808957"
+    },
+    {
+      "$numberDouble": "-0.09005073"
+    },
+    {
+      "$numberDouble": "-0.05160493"
+    },
+    {
+      "$numberDouble": "0.06002835"
+    },
+    {
+      "$numberDouble": "-0.02769857"
+    },
+    {
+      "$numberDouble": "0.01066432"
+    },
+    {
+      "$numberDouble": "-0.01841407"
+    },
+    {
+      "$numberDouble": "-0.03455759"
+    },
+    {
+      "$numberDouble": "0.11642442"
+    },
+    {
+      "$numberDouble": "-0.00602922"
+    },
+    {
+      "$numberDouble": "-0.06414298"
+    },
+    {
+      "$numberDouble": "0.03605707"
+    },
+    {
+      "$numberDouble": "0.04779782"
+    },
+    {
+      "$numberDouble": "0.05062928"
+    },
+    {
+      "$numberDouble": "0.02791613"
+    },
+    {
+      "$numberDouble": "0.00109344"
+    },
+    {
+      "$numberDouble": "0.01179379"
+    },
+    {
+      "$numberDouble": "-0.0828019"
+    },
+    {
+      "$numberDouble": "0.02246181"
+    },
+    {
+      "$numberDouble": "0.05065708"
+    },
+    {
+      "$numberDouble": "-0.02996392"
+    },
+    {
+      "$numberDouble": "0.01559294"
+    },
+    {
+      "$numberDouble": "-0.0686477"
+    },
+    {
+      "$numberDouble": "0.03993903"
+    },
+    {
+      "$numberDouble": "0.0038867"
+    },
+    {
+      "$numberDouble": "0.05329773"
+    },
+    {
+      "$numberDouble": "-0.04399829"
+    },
+    {
+      "$numberDouble": "0.0273784"
+    },
+    {
+      "$numberDouble": "0.00475592"
+    },
+    {
+      "$numberDouble": "-0.00789353"
+    },
+    {
+      "$numberDouble": "0.04387116"
+    },
+    {
+      "$numberDouble": "-0.04703583"
+    },
+    {
+      "$numberDouble": "0.08020797"
+    },
+    {
+      "$numberDouble": "-0.01795377"
+    },
+    {
+      "$numberDouble": "-0.04625949"
+    },
+    {
+      "$numberDouble": "-0.02134631"
+    },
+    {
+      "$numberDouble": "0.01412361"
+    },
+    {
+      "$numberDouble": "0.00477664"
+    },
+    {
+      "$numberDouble": "0.02232042"
+    },
+    {
+      "$numberDouble": "-0.02455375"
+    },
+    {
+      "$numberDouble": "-0.02038096"
+    },
+    {
+      "$numberDouble": "0.09818898"
+    },
+    {
+      "$numberDouble": "-0.10529954"
+    },
+    {
+      "$numberDouble": "0.0243894"
+    },
+    {
+      "$numberDouble": "-0.00412824"
+    },
+    {
+      "$numberDouble": "-0.0380046"
+    },
+    {
+      "$numberDouble": "-0.0032149"
+    },
+    {
+      "$numberDouble": "-0.02190756"
+    },
+    {
+      "$numberDouble": "0.01054038"
+    },
+    {
+      "$numberDouble": "0.0475909"
+    },
+    {
+      "$numberDouble": "0.09769394"
+    },
+    {
+      "$numberDouble": "0.02453556"
+    },
+    {
+      "$numberDouble": "0.06046792"
+    },
+    {
+      "$numberDouble": "0.0151108"
+    },
+    {
+      "$numberDouble": "0.02671913"
+    },
+    {
+      "$numberDouble": "-0.00890097"
+    },
+    {
+      "$numberDouble": "0.06504261"
+    },
+    {
+      "$numberDouble": "-0.03288941"
+    },
+    {
+      "$numberDouble": "0.06243686"
+    },
+    {
+      "$numberDouble": "0.00133133"
+    },
+    {
+      "$numberDouble": "-0.00708547"
+    },
+    {
+      "$numberDouble": "-0.02962669"
+    },
+    {
+      "$numberDouble": "-0.01429142"
+    },
+    {
+      "$numberDouble": "0.00168504"
+    },
+    {
+      "$numberDouble": "0.02776267"
+    },
+    {
+      "$numberDouble": "0.02737177"
+    },
+    {
+      "$numberDouble": "-0.01680623"
+    },
+    {
+      "$numberDouble": "-0.08311988"
+    },
+    {
+      "$numberDouble": "0.02982807"
+    },
+    {
+      "$numberDouble": "0.00327951"
+    },
+    {
+      "$numberDouble": "-0.06338369"
+    },
+    {
+      "$numberDouble": "-0.02224819"
+    },
+    {
+      "$numberDouble": "-0.05096295"
+    },
+    {
+      "$numberDouble": "0.02608843"
+    },
+    {
+      "$numberDouble": "0.05214131"
+    },
+    {
+      "$numberDouble": "-0.05162063"
+    },
+    {
+      "$numberDouble": "0.02418622"
+    },
+    {
+      "$numberDouble": "-0.00680749"
+    },
+    {
+      "$numberDouble": "-0.02439518"
+    },
+    {
+      "$numberDouble": "0.02789896"
+    },
+    {
+      "$numberDouble": "0.03229836"
+    },
+    {
+      "$numberDouble": "0.0004297"
+    },
+    {
+      "$numberDouble": "0.00869872"
+    },
+    {
+      "$numberDouble": "0.01893941"
+    },
+    {
+      "$numberDouble": "-0.00644452"
+    },
+    {
+      "$numberDouble": "0.056958"
+    },
+    {
+      "$numberDouble": "0.03057542"
+    },
+    {
+      "$numberDouble": "-0.00256966"
+    },
+    {
+      "$numberDouble": "-0.02827925"
+    },
+    {
+      "$numberDouble": "0.01759292"
+    },
+    {
+      "$numberDouble": "-0.1851505"
+    },
+    {
+      "$numberDouble": "0.05773119"
+    },
+    {
+      "$numberDouble": "-0.03860598"
+    },
+    {
+      "$numberDouble": "0.08606084"
+    },
+    {
+      "$numberDouble": "-0.00713543"
+    },
+    {
+      "$numberDouble": "-0.08070077"
+    },
+    {
+      "$numberDouble": "0.0645759"
+    },
+    {
+      "$numberDouble": "0.01682741"
+    },
+    {
+      "$numberDouble": "0.08820561"
+    },
+    {
+      "$numberDouble": "0.10151394"
+    },
+    {
+      "$numberDouble": "-0.11847298"
+    },
+    {
+      "$numberDouble": "0.00252183"
+    },
+    {
+      "$numberDouble": "0.0114772"
+    },
+    {
+      "$numberDouble": "0.04704672"
+    },
+    {
+      "$numberDouble": "-0.02584125"
+    },
+    {
+      "$numberDouble": "-0.03065358"
+    },
+    {
+      "$numberDouble": "-0.05713505"
+    },
+    {
+      "$numberDouble": "-0.02684916"
+    },
+    {
+      "$numberDouble": "0.02120573"
+    },
+    {
+      "$numberDouble": "0.04891613"
+    },
+    {
+      "$numberDouble": "0.03665866"
+    },
+    {
+      "$numberDouble": "0.00041585"
+    },
+    {
+      "$numberDouble": "-0.0796434"
+    },
+    {
+      "$numberDouble": "-0.01961988"
+    },
+    {
+      "$numberDouble": "-0.00080586"
+    },
+    {
+      "$numberDouble": "0.06483827"
+    },
+    {
+      "$numberDouble": "-0.04621017"
+    },
+    {
+      "$numberDouble": "0.02161711"
+    },
+    {
+      "$numberDouble": "-0.01810151"
+    },
+    {
+      "$numberDouble": "-0.16168262"
+    },
+    {
+      "$numberDouble": "0.00619808"
+    },
+    {
+      "$numberDouble": "0.06001252"
+    },
+    {
+      "$numberDouble": "0.01313747"
+    },
+    {
+      "$numberDouble": "-0.05230674"
+    },
+    {
+      "$numberDouble": "0.00557699"
+    },
+    {
+      "$numberDouble": "0.00879798"
+    },
+    {
+      "$numberDouble": "0.0930222"
+    },
+    {
+      "$numberDouble": "0.0423819"
+    },
+    {
+      "$numberDouble": "-0.17610812"
+    },
+    {
+      "$numberDouble": "0.06903309"
+    },
+    {
+      "$numberDouble": "-0.03142774"
+    },
+    {
+      "$numberDouble": "-0.04920566"
+    },
+    {
+      "$numberDouble": "0.04754107"
+    },
+    {
+      "$numberDouble": "0.02432219"
+    },
+    {
+      "$numberDouble": "-0.00475244"
+    },
+    {
+      "$numberDouble": "0.05543912"
+    },
+    {
+      "$numberDouble": "0.07735559"
+    },
+    {
+      "$numberDouble": "0.02401396"
+    },
+    {
+      "$numberDouble": "-0.0940039"
+    },
+    {
+      "$numberDouble": "0.01229848"
+    },
+    {
+      "$numberDouble": "-0.05678553"
+    },
+    {
+      "$numberDouble": "0.03761696"
+    },
+    {
+      "$numberDouble": "0.03331588"
+    },
+    {
+      "$numberDouble": "0.10903998"
+    },
+    {
+      "$numberDouble": "0.0053206"
+    },
+    {
+      "$numberDouble": "-0.04909916"
+    },
+    {
+      "$numberDouble": "0.08287732"
+    },
+    {
+      "$numberDouble": "-0.03644504"
+    },
+    {
+      "$numberDouble": "-0.0463425"
+    },
+    {
+      "$numberDouble": "-0.11207362"
+    },
+    {
+      "$numberDouble": "0.02604545"
+    },
+    {
+      "$numberDouble": "-0.01703709"
+    },
+    {
+      "$numberDouble": "0.03415845"
+    },
+    {
+      "$numberDouble": "0.00220769"
+    },
+    {
+      "$numberDouble": "0.01887142"
+    },
+    {
+      "$numberDouble": "-0.05469055"
+    },
+    {
+      "$numberDouble": "0.03942912"
+    },
+    {
+      "$numberDouble": "-0.03995525"
+    },
+    {
+      "$numberDouble": "-0.0920661"
+    },
+    {
+      "$numberDouble": "0.0140879"
+    },
+    {
+      "$numberDouble": "0.03004713"
+    },
+    {
+      "$numberDouble": "0.1038616"
+    },
+    {
+      "$numberDouble": "0.03654748"
+    },
+    {
+      "$numberDouble": "-0.01904768"
+    },
+    {
+      "$numberDouble": "0.02449925"
+    },
+    {
+      "$numberDouble": "0.04967322"
+    },
+    {
+      "$numberDouble": "0.0825054"
+    },
+    {
+      "$numberDouble": "0.03003196"
+    },
+    {
+      "$numberDouble": "-0.02465058"
+    },
+    {
+      "$numberDouble": "0.07625265"
+    },
+    {
+      "$numberDouble": "0.05731763"
+    },
+    {
+      "$numberDouble": "-0.03666439"
+    },
+    {
+      "$numberDouble": "0.03844875"
+    },
+    {
+      "$numberDouble": "0.05667217"
+    },
+    {
+      "$numberDouble": "0.01637921"
+    },
+    {
+      "$numberDouble": "-0.04271143"
+    },
+    {
+      "$numberDouble": "0.10901455"
+    },
+    {
+      "$numberDouble": "-0.03659077"
+    },
+    {
+      "$numberDouble": "0.00862691"
+    },
+    {
+      "$numberDouble": "-0.03562851"
+    },
+    {
+      "$numberDouble": "-0.0573323"
+    },
+    {
+      "$numberDouble": "-0.00516041"
+    },
+    {
+      "$numberDouble": "0.06258827"
+    },
+    {
+      "$numberDouble": "0.02613088"
+    },
+    {
+      "$numberDouble": "0.01017473"
+    },
+    {
+      "$numberDouble": "-0.11019559"
+    },
+    {
+      "$numberDouble": "-0.02975314"
+    },
+    {
+      "$numberDouble": "0.01812796"
+    },
+    {
+      "$numberDouble": "0.04025533"
+    },
+    {
+      "$numberDouble": "0.06590219"
+    },
+    {
+      "$numberDouble": "-0.03160445"
+    },
+    {
+      "$numberDouble": "0.05507664"
+    },
+    {
+      "$numberDouble": "0.16565494"
+    },
+    {
+      "$numberDouble": "-0.02027634"
+    },
+    {
+      "$numberDouble": "-0.05467088"
+    },
+    {
+      "$numberDouble": "-0.02698243"
+    },
+    {
+      "$numberDouble": "-0.01180092"
+    },
+    {
+      "$numberDouble": "0.02410143"
+    },
+    {
+      "$numberDouble": "0.01420209"
+    },
+    {
+      "$numberDouble": "-0.06612454"
+    },
+    {
+      "$numberDouble": "-0.00581055"
+    },
+    {
+      "$numberDouble": "0.01951037"
+    },
+    {
+      "$numberDouble": "0.03035941"
+    }
+  ],
+  "modelo_embedding": "paraphrase-multilingual-MiniLM-L12-v2"
+},
+{
+  "_id": {
+    "$oid": "6b006617df9dadfa57b11634"
+  },
+  "codigo_novedad": "NOV-004",
+  "descripcion": "Sobrecalentamiento del motor durante el transporte.",
+  "entorno": "DEMOSTRACION",
+  "estado": "RESUELTA",
+  "id_despacho": {
+    "$numberInt": "4"
+  },
+  "impacto": {
+    "minutos_retraso": {
+      "$numberInt": "90"
+    }
+  },
+  "tipo": "FALLA_MECANICA",
+  "ubicacion": {
+    "municipio": "Tolu",
+    "departamento": "Sucre"
+  },
+  "embedding": [
+    {
+      "$numberDouble": "0.06109527"
+    },
+    {
+      "$numberDouble": "0.03999202"
+    },
+    {
+      "$numberDouble": "-0.03376463"
+    },
+    {
+      "$numberDouble": "0.10758172"
+    },
+    {
+      "$numberDouble": "0.12176737"
+    },
+    {
+      "$numberDouble": "-0.01003489"
+    },
+    {
+      "$numberDouble": "0.04152803"
+    },
+    {
+      "$numberDouble": "0.01157124"
+    },
+    {
+      "$numberDouble": "-0.00286707"
+    },
+    {
+      "$numberDouble": "-0.07154453"
+    },
+    {
+      "$numberDouble": "-0.01959242"
+    },
+    {
+      "$numberDouble": "0.02410848"
+    },
+    {
+      "$numberDouble": "-0.03289258"
+    },
+    {
+      "$numberDouble": "-0.03896987"
+    },
+    {
+      "$numberDouble": "-0.01628576"
+    },
+    {
+      "$numberDouble": "0.03392999"
+    },
+    {
+      "$numberDouble": "0.01707257"
+    },
+    {
+      "$numberDouble": "-0.01709107"
+    },
+    {
+      "$numberDouble": "-0.0014279"
+    },
+    {
+      "$numberDouble": "-0.10164884"
+    },
+    {
+      "$numberDouble": "0.01337389"
+    },
+    {
+      "$numberDouble": "-0.02630136"
+    },
+    {
+      "$numberDouble": "-0.02102929"
+    },
+    {
+      "$numberDouble": "-0.00421732"
+    },
+    {
+      "$numberDouble": "-0.05516913"
+    },
+    {
+      "$numberDouble": "0.02582039"
+    },
+    {
+      "$numberDouble": "-0.03353431"
+    },
+    {
+      "$numberDouble": "0.01210862"
+    },
+    {
+      "$numberDouble": "-0.02659853"
+    },
+    {
+      "$numberDouble": "-0.03276936"
+    },
+    {
+      "$numberDouble": "-0.00760373"
+    },
+    {
+      "$numberDouble": "-0.06502655"
+    },
+    {
+      "$numberDouble": "-0.01050841"
+    },
+    {
+      "$numberDouble": "0.05929794"
+    },
+    {
+      "$numberDouble": "0.0623658"
+    },
+    {
+      "$numberDouble": "-0.0683164"
+    },
+    {
+      "$numberDouble": "0.03520843"
+    },
+    {
+      "$numberDouble": "-0.02038178"
+    },
+    {
+      "$numberDouble": "0.04996794"
+    },
+    {
+      "$numberDouble": "0.05843712"
+    },
+    {
+      "$numberDouble": "-0.00899373"
+    },
+    {
+      "$numberDouble": "-0.08266003"
+    },
+    {
+      "$numberDouble": "-0.03431319"
+    },
+    {
+      "$numberDouble": "0.03659639"
+    },
+    {
+      "$numberDouble": "0.0218858"
+    },
+    {
+      "$numberDouble": "0.05442987"
+    },
+    {
+      "$numberDouble": "0.01180296"
+    },
+    {
+      "$numberDouble": "-0.02030185"
+    },
+    {
+      "$numberDouble": "-0.0262817"
+    },
+    {
+      "$numberDouble": "-0.0153269"
+    },
+    {
+      "$numberDouble": "-0.01332869"
+    },
+    {
+      "$numberDouble": "-0.04533806"
+    },
+    {
+      "$numberDouble": "0.02001886"
+    },
+    {
+      "$numberDouble": "-0.07525201"
+    },
+    {
+      "$numberDouble": "0.00110886"
+    },
+    {
+      "$numberDouble": "-0.09653848"
+    },
+    {
+      "$numberDouble": "0.01788817"
+    },
+    {
+      "$numberDouble": "-0.02833828"
+    },
+    {
+      "$numberDouble": "-0.02555279"
+    },
+    {
+      "$numberDouble": "-0.06783963"
+    },
+    {
+      "$numberDouble": "-0.03440642"
+    },
+    {
+      "$numberDouble": "-0.04283875"
+    },
+    {
+      "$numberDouble": "-0.07221047"
+    },
+    {
+      "$numberDouble": "-0.0170822"
+    },
+    {
+      "$numberDouble": "0.0059555"
+    },
+    {
+      "$numberDouble": "-0.05802496"
+    },
+    {
+      "$numberDouble": "-0.00611128"
+    },
+    {
+      "$numberDouble": "0.02269298"
+    },
+    {
+      "$numberDouble": "0.03368618"
+    },
+    {
+      "$numberDouble": "0.03111616"
+    },
+    {
+      "$numberDouble": "-0.00074301"
+    },
+    {
+      "$numberDouble": "0.00307429"
+    },
+    {
+      "$numberDouble": "-0.03384438"
+    },
+    {
+      "$numberDouble": "-0.04191819"
+    },
+    {
+      "$numberDouble": "-0.01023652"
+    },
+    {
+      "$numberDouble": "-0.02853597"
+    },
+    {
+      "$numberDouble": "-0.05267882"
+    },
+    {
+      "$numberDouble": "0.02125103"
+    },
+    {
+      "$numberDouble": "-0.0237657"
+    },
+    {
+      "$numberDouble": "-0.04864349"
+    },
+    {
+      "$numberDouble": "0.0807483"
+    },
+    {
+      "$numberDouble": "-0.07958375"
+    },
+    {
+      "$numberDouble": "-0.0936507"
+    },
+    {
+      "$numberDouble": "-0.06399637"
+    },
+    {
+      "$numberDouble": "0.007934"
+    },
+    {
+      "$numberDouble": "0.00559279"
+    },
+    {
+      "$numberDouble": "0.092793"
+    },
+    {
+      "$numberDouble": "-0.03107433"
+    },
+    {
+      "$numberDouble": "-0.03625713"
+    },
+    {
+      "$numberDouble": "0.01463902"
+    },
+    {
+      "$numberDouble": "-0.04698787"
+    },
+    {
+      "$numberDouble": "-0.04785911"
+    },
+    {
+      "$numberDouble": "0.01625036"
+    },
+    {
+      "$numberDouble": "0.05093299"
+    },
+    {
+      "$numberDouble": "0.16049129"
+    },
+    {
+      "$numberDouble": "0.07595513"
+    },
+    {
+      "$numberDouble": "0.04816161"
+    },
+    {
+      "$numberDouble": "0.03559414"
+    },
+    {
+      "$numberDouble": "0.05041983"
+    },
+    {
+      "$numberDouble": "0.05972836"
+    },
+    {
+      "$numberDouble": "0.05342998"
+    },
+    {
+      "$numberDouble": "0.00491301"
+    },
+    {
+      "$numberDouble": "-0.04044802"
+    },
+    {
+      "$numberDouble": "0.03712133"
+    },
+    {
+      "$numberDouble": "-0.09534401"
+    },
+    {
+      "$numberDouble": "-0.0129903"
+    },
+    {
+      "$numberDouble": "-0.01231936"
+    },
+    {
+      "$numberDouble": "0.00257038"
+    },
+    {
+      "$numberDouble": "-0.04515005"
+    },
+    {
+      "$numberDouble": "-0.10656519"
+    },
+    {
+      "$numberDouble": "0.0176955"
+    },
+    {
+      "$numberDouble": "0.0375839"
+    },
+    {
+      "$numberDouble": "-0.04989391"
+    },
+    {
+      "$numberDouble": "-0.00284088"
+    },
+    {
+      "$numberDouble": "-0.03381957"
+    },
+    {
+      "$numberDouble": "-0.06339621"
+    },
+    {
+      "$numberDouble": "-0.07418729"
+    },
+    {
+      "$numberDouble": "0.02641012"
+    },
+    {
+      "$numberDouble": "-0.07206029"
+    },
+    {
+      "$numberDouble": "0.10072038"
+    },
+    {
+      "$numberDouble": "-0.11885285"
+    },
+    {
+      "$numberDouble": "-0.01877444"
+    },
+    {
+      "$numberDouble": "0.03503916"
+    },
+    {
+      "$numberDouble": "0.03819147"
+    },
+    {
+      "$numberDouble": "0.01329889"
+    },
+    {
+      "$numberDouble": "-0.12593473"
+    },
+    {
+      "$numberDouble": "0.1166489"
+    },
+    {
+      "$numberDouble": "-0.0492452"
+    },
+    {
+      "$numberDouble": "-0.05058727"
+    },
+    {
+      "$numberDouble": "-0.04411712"
+    },
+    {
+      "$numberDouble": "0.00487269"
+    },
+    {
+      "$numberDouble": "0.07402807"
+    },
+    {
+      "$numberDouble": "-0.03953925"
+    },
+    {
+      "$numberDouble": "0.00077552"
+    },
+    {
+      "$numberDouble": "-0.08554596"
+    },
+    {
+      "$numberDouble": "-0.0453188"
+    },
+    {
+      "$numberDouble": "0.0211063"
+    },
+    {
+      "$numberDouble": "0.08239403"
+    },
+    {
+      "$numberDouble": "0.0146331"
+    },
+    {
+      "$numberDouble": "0.05239725"
+    },
+    {
+      "$numberDouble": "-0.11588594"
+    },
+    {
+      "$numberDouble": "-0.05356851"
+    },
+    {
+      "$numberDouble": "0.03605494"
+    },
+    {
+      "$numberDouble": "-0.07198621"
+    },
+    {
+      "$numberDouble": "0.00437786"
+    },
+    {
+      "$numberDouble": "0.00612465"
+    },
+    {
+      "$numberDouble": "-0.02082494"
+    },
+    {
+      "$numberDouble": "-0.03107845"
+    },
+    {
+      "$numberDouble": "0.03201122"
+    },
+    {
+      "$numberDouble": "-0.05941517"
+    },
+    {
+      "$numberDouble": "0.01125586"
+    },
+    {
+      "$numberDouble": "0.05554819"
+    },
+    {
+      "$numberDouble": "-0.02479008"
+    },
+    {
+      "$numberDouble": "0.02789249"
+    },
+    {
+      "$numberDouble": "0.03929621"
+    },
+    {
+      "$numberDouble": "0.01561907"
+    },
+    {
+      "$numberDouble": "0.01218966"
+    },
+    {
+      "$numberDouble": "0.01715809"
+    },
+    {
+      "$numberDouble": "0.04130799"
+    },
+    {
+      "$numberDouble": "0.04671502"
+    },
+    {
+      "$numberDouble": "-0.02827273"
+    },
+    {
+      "$numberDouble": "0.09051584"
+    },
+    {
+      "$numberDouble": "-0.06850185"
+    },
+    {
+      "$numberDouble": "-0.01651483"
+    },
+    {
+      "$numberDouble": "-0.06154839"
+    },
+    {
+      "$numberDouble": "0.02166316"
+    },
+    {
+      "$numberDouble": "0.00650204"
+    },
+    {
+      "$numberDouble": "0.04453362"
+    },
+    {
+      "$numberDouble": "0.01730878"
+    },
+    {
+      "$numberDouble": "-0.05977086"
+    },
+    {
+      "$numberDouble": "-0.00649398"
+    },
+    {
+      "$numberDouble": "-0.02534981"
+    },
+    {
+      "$numberDouble": "-0.14376044"
+    },
+    {
+      "$numberDouble": "0.05049793"
+    },
+    {
+      "$numberDouble": "0.04068489"
+    },
+    {
+      "$numberDouble": "0.01651097"
+    },
+    {
+      "$numberDouble": "-0.04844552"
+    },
+    {
+      "$numberDouble": "0.05522839"
+    },
+    {
+      "$numberDouble": "-0.03206136"
+    },
+    {
+      "$numberDouble": "0.01825013"
+    },
+    {
+      "$numberDouble": "0.05567271"
+    },
+    {
+      "$numberDouble": "0.01830269"
+    },
+    {
+      "$numberDouble": "0.01942504"
+    },
+    {
+      "$numberDouble": "0.01937886"
+    },
+    {
+      "$numberDouble": "0.11469094"
+    },
+    {
+      "$numberDouble": "0.03253703"
+    },
+    {
+      "$numberDouble": "-0.04830786"
+    },
+    {
+      "$numberDouble": "-0.07997899"
+    },
+    {
+      "$numberDouble": "-0.04484969"
+    },
+    {
+      "$numberDouble": "0.0438472"
+    },
+    {
+      "$numberDouble": "0.04328442"
+    },
+    {
+      "$numberDouble": "-0.03428387"
+    },
+    {
+      "$numberDouble": "0.05646248"
+    },
+    {
+      "$numberDouble": "-0.00491831"
+    },
+    {
+      "$numberDouble": "0.00799479"
+    },
+    {
+      "$numberDouble": "0.00985747"
+    },
+    {
+      "$numberDouble": "-0.00023669"
+    },
+    {
+      "$numberDouble": "0.05417448"
+    },
+    {
+      "$numberDouble": "0.0095413"
+    },
+    {
+      "$numberDouble": "-0.0399267"
+    },
+    {
+      "$numberDouble": "-0.03377992"
+    },
+    {
+      "$numberDouble": "-0.00305825"
+    },
+    {
+      "$numberDouble": "-0.02370417"
+    },
+    {
+      "$numberDouble": "-0.04506573"
+    },
+    {
+      "$numberDouble": "-0.01675418"
+    },
+    {
+      "$numberDouble": "0.00737549"
+    },
+    {
+      "$numberDouble": "-0.02232265"
+    },
+    {
+      "$numberDouble": "-0.02449313"
+    },
+    {
+      "$numberDouble": "-0.03559109"
+    },
+    {
+      "$numberDouble": "0.02157362"
+    },
+    {
+      "$numberDouble": "0.045637"
+    },
+    {
+      "$numberDouble": "-0.07875174"
+    },
+    {
+      "$numberDouble": "0.071959"
+    },
+    {
+      "$numberDouble": "-0.01135363"
+    },
+    {
+      "$numberDouble": "-0.02481145"
+    },
+    {
+      "$numberDouble": "0.02384601"
+    },
+    {
+      "$numberDouble": "-0.04692116"
+    },
+    {
+      "$numberDouble": "0.07042223"
+    },
+    {
+      "$numberDouble": "0.00059745"
+    },
+    {
+      "$numberDouble": "0.0438112"
+    },
+    {
+      "$numberDouble": "0.02481596"
+    },
+    {
+      "$numberDouble": "0.01056937"
+    },
+    {
+      "$numberDouble": "0.04904012"
+    },
+    {
+      "$numberDouble": "-0.03940557"
+    },
+    {
+      "$numberDouble": "0.04872601"
+    },
+    {
+      "$numberDouble": "-0.0093435"
+    },
+    {
+      "$numberDouble": "0.01648419"
+    },
+    {
+      "$numberDouble": "0.01756598"
+    },
+    {
+      "$numberDouble": "0.00664105"
+    },
+    {
+      "$numberDouble": "0.0383861"
+    },
+    {
+      "$numberDouble": "0.01215646"
+    },
+    {
+      "$numberDouble": "0.01520009"
+    },
+    {
+      "$numberDouble": "-0.0125924"
+    },
+    {
+      "$numberDouble": "0.05933403"
+    },
+    {
+      "$numberDouble": "-0.02508987"
+    },
+    {
+      "$numberDouble": "-0.01304156"
+    },
+    {
+      "$numberDouble": "-0.09161486"
+    },
+    {
+      "$numberDouble": "0.08458762"
+    },
+    {
+      "$numberDouble": "0.03065936"
+    },
+    {
+      "$numberDouble": "-0.07313987"
+    },
+    {
+      "$numberDouble": "0.07109054"
+    },
+    {
+      "$numberDouble": "-0.01660644"
+    },
+    {
+      "$numberDouble": "0.02179783"
+    },
+    {
+      "$numberDouble": "0.01089728"
+    },
+    {
+      "$numberDouble": "0.09047829"
+    },
+    {
+      "$numberDouble": "-0.00363372"
+    },
+    {
+      "$numberDouble": "-0.05064145"
+    },
+    {
+      "$numberDouble": "0.03260686"
+    },
+    {
+      "$numberDouble": "-0.0599593"
+    },
+    {
+      "$numberDouble": "0.0821392"
+    },
+    {
+      "$numberDouble": "-0.03847975"
+    },
+    {
+      "$numberDouble": "-0.03178928"
+    },
+    {
+      "$numberDouble": "-0.03735526"
+    },
+    {
+      "$numberDouble": "0.03078756"
+    },
+    {
+      "$numberDouble": "-0.03988745"
+    },
+    {
+      "$numberDouble": "0.047103"
+    },
+    {
+      "$numberDouble": "0.06742121"
+    },
+    {
+      "$numberDouble": "0.0352211"
+    },
+    {
+      "$numberDouble": "-0.0730442"
+    },
+    {
+      "$numberDouble": "0.01767374"
+    },
+    {
+      "$numberDouble": "0.01885619"
+    },
+    {
+      "$numberDouble": "0.04707729"
+    },
+    {
+      "$numberDouble": "-0.06562327"
+    },
+    {
+      "$numberDouble": "-0.08968892"
+    },
+    {
+      "$numberDouble": "-0.00548223"
+    },
+    {
+      "$numberDouble": "-0.01700581"
+    },
+    {
+      "$numberDouble": "0.06921221"
+    },
+    {
+      "$numberDouble": "0.0199337"
+    },
+    {
+      "$numberDouble": "0.01309173"
+    },
+    {
+      "$numberDouble": "-0.0268818"
+    },
+    {
+      "$numberDouble": "-0.03443712"
+    },
+    {
+      "$numberDouble": "-0.11540893"
+    },
+    {
+      "$numberDouble": "-0.03879971"
+    },
+    {
+      "$numberDouble": "-0.00700536"
+    },
+    {
+      "$numberDouble": "0.13594761"
+    },
+    {
+      "$numberDouble": "-0.04164085"
+    },
+    {
+      "$numberDouble": "-0.05333821"
+    },
+    {
+      "$numberDouble": "0.06037634"
+    },
+    {
+      "$numberDouble": "0.00745881"
+    },
+    {
+      "$numberDouble": "0.05878844"
+    },
+    {
+      "$numberDouble": "-0.024956"
+    },
+    {
+      "$numberDouble": "0.01998395"
+    },
+    {
+      "$numberDouble": "0.00659578"
+    },
+    {
+      "$numberDouble": "0.01379009"
+    },
+    {
+      "$numberDouble": "0.15461673"
+    },
+    {
+      "$numberDouble": "-0.0157774"
+    },
+    {
+      "$numberDouble": "-0.00839707"
+    },
+    {
+      "$numberDouble": "-0.00139349"
+    },
+    {
+      "$numberDouble": "-0.04052351"
+    },
+    {
+      "$numberDouble": "-0.04941855"
+    },
+    {
+      "$numberDouble": "-0.01676638"
+    },
+    {
+      "$numberDouble": "-0.0152095"
+    },
+    {
+      "$numberDouble": "0.07548281"
+    },
+    {
+      "$numberDouble": "0.00176719"
+    },
+    {
+      "$numberDouble": "0.00061054"
+    },
+    {
+      "$numberDouble": "0.01947024"
+    },
+    {
+      "$numberDouble": "0.03760395"
+    },
+    {
+      "$numberDouble": "0.06664579"
+    },
+    {
+      "$numberDouble": "0.00913254"
+    },
+    {
+      "$numberDouble": "-0.03291678"
+    },
+    {
+      "$numberDouble": "0.05050667"
+    },
+    {
+      "$numberDouble": "0.05765357"
+    },
+    {
+      "$numberDouble": "0.04353032"
+    },
+    {
+      "$numberDouble": "-0.00778712"
+    },
+    {
+      "$numberDouble": "-0.05482715"
+    },
+    {
+      "$numberDouble": "-0.0536719"
+    },
+    {
+      "$numberDouble": "0.06322899"
+    },
+    {
+      "$numberDouble": "-0.00613488"
+    },
+    {
+      "$numberDouble": "0.04250414"
+    },
+    {
+      "$numberDouble": "-0.06620526"
+    },
+    {
+      "$numberDouble": "-0.01486508"
+    },
+    {
+      "$numberDouble": "-0.03974469"
+    },
+    {
+      "$numberDouble": "0.01203379"
+    },
+    {
+      "$numberDouble": "-0.03449966"
+    },
+    {
+      "$numberDouble": "0.11161113"
+    },
+    {
+      "$numberDouble": "0.03376229"
+    },
+    {
+      "$numberDouble": "-0.10801727"
+    },
+    {
+      "$numberDouble": "0.02337134"
+    },
+    {
+      "$numberDouble": "0.01776795"
+    },
+    {
+      "$numberDouble": "-0.09308887"
+    },
+    {
+      "$numberDouble": "-0.05656404"
+    },
+    {
+      "$numberDouble": "-0.02443153"
+    },
+    {
+      "$numberDouble": "0.00864707"
+    },
+    {
+      "$numberDouble": "-0.03250032"
+    },
+    {
+      "$numberDouble": "0.08792844"
+    },
+    {
+      "$numberDouble": "-0.03910427"
+    },
+    {
+      "$numberDouble": "0.03177832"
+    },
+    {
+      "$numberDouble": "0.01486849"
+    },
+    {
+      "$numberDouble": "-0.0346803"
+    },
+    {
+      "$numberDouble": "-0.06672784"
+    },
+    {
+      "$numberDouble": "0.05019389"
+    },
+    {
+      "$numberDouble": "-0.04393555"
+    },
+    {
+      "$numberDouble": "0.05359018"
+    },
+    {
+      "$numberDouble": "0.06088623"
+    },
+    {
+      "$numberDouble": "0.0048868"
+    },
+    {
+      "$numberDouble": "0.05953686"
+    },
+    {
+      "$numberDouble": "-0.01060035"
+    },
+    {
+      "$numberDouble": "0.06479717"
+    },
+    {
+      "$numberDouble": "0.01888714"
+    },
+    {
+      "$numberDouble": "0.01466303"
+    },
+    {
+      "$numberDouble": "0.02525605"
+    },
+    {
+      "$numberDouble": "0.0530472"
+    },
+    {
+      "$numberDouble": "0.00807321"
+    },
+    {
+      "$numberDouble": "0.07061072"
+    },
+    {
+      "$numberDouble": "0.15997632"
+    },
+    {
+      "$numberDouble": "-0.01250267"
+    },
+    {
+      "$numberDouble": "-0.00337022"
+    },
+    {
+      "$numberDouble": "-0.0643314"
+    },
+    {
+      "$numberDouble": "0.10377016"
+    },
+    {
+      "$numberDouble": "-0.06972709"
+    },
+    {
+      "$numberDouble": "-0.05326743"
+    },
+    {
+      "$numberDouble": "-0.00226831"
+    },
+    {
+      "$numberDouble": "-0.00957858"
+    },
+    {
+      "$numberDouble": "0.02343703"
+    },
+    {
+      "$numberDouble": "0.04374187"
+    },
+    {
+      "$numberDouble": "0.1065914"
+    },
+    {
+      "$numberDouble": "-0.02180964"
+    },
+    {
+      "$numberDouble": "0.13480547"
+    },
+    {
+      "$numberDouble": "0.04900993"
+    },
+    {
+      "$numberDouble": "0.00224931"
+    },
+    {
+      "$numberDouble": "0.04190233"
+    },
+    {
+      "$numberDouble": "0.04441474"
+    },
+    {
+      "$numberDouble": "-0.11407007"
+    },
+    {
+      "$numberDouble": "0.0091509"
+    },
+    {
+      "$numberDouble": "-0.0038035"
+    },
+    {
+      "$numberDouble": "0.00537501"
+    },
+    {
+      "$numberDouble": "-0.13380994"
+    },
+    {
+      "$numberDouble": "-0.04286077"
+    },
+    {
+      "$numberDouble": "-0.06858464"
+    },
+    {
+      "$numberDouble": "0.03318058"
+    },
+    {
+      "$numberDouble": "0.03310209"
+    },
+    {
+      "$numberDouble": "-0.04301902"
+    },
+    {
+      "$numberDouble": "0.03873569"
+    },
+    {
+      "$numberDouble": "0.05187601"
+    },
+    {
+      "$numberDouble": "0.02190554"
+    },
+    {
+      "$numberDouble": "-0.06165131"
+    },
+    {
+      "$numberDouble": "-0.07053061"
+    },
+    {
+      "$numberDouble": "0.06045721"
+    },
+    {
+      "$numberDouble": "-0.00625185"
+    },
+    {
+      "$numberDouble": "-0.03894248"
+    },
+    {
+      "$numberDouble": "-0.01017203"
+    },
+    {
+      "$numberDouble": "0.01457462"
+    },
+    {
+      "$numberDouble": "-0.01977803"
+    },
+    {
+      "$numberDouble": "0.02477003"
+    }
+  ],
+  "modelo_embedding": "paraphrase-multilingual-MiniLM-L12-v2"
+},
+{
+  "_id": {
+    "$oid": "6b006617df9dadfa57b11635"
+  },
+  "codigo_novedad": "NOV-005",
+  "descripcion": "El mal estado de la via rural retraso la entrega.",
+  "entorno": "DEMOSTRACION",
+  "estado": "PENDIENTE",
+  "id_despacho": {
+    "$numberInt": "5"
+  },
+  "impacto": {
+    "minutos_retraso": {
+      "$numberInt": "60"
+    }
+  },
+  "tipo": "DIFICULTAD_ACCESO",
+  "ubicacion": {
+    "municipio": "Majagual",
+    "departamento": "Sucre"
+  },
+  "embedding": [
+    {
+      "$numberDouble": "0.02960145"
+    },
+    {
+      "$numberDouble": "-0.04267552"
+    },
+    {
+      "$numberDouble": "0.01421668"
+    },
+    {
+      "$numberDouble": "0.03267582"
+    },
+    {
+      "$numberDouble": "0.10012697"
+    },
+    {
+      "$numberDouble": "-0.01011939"
+    },
+    {
+      "$numberDouble": "-0.08006791"
+    },
+    {
+      "$numberDouble": "-0.06717036"
+    },
+    {
+      "$numberDouble": "0.00405675"
+    },
+    {
+      "$numberDouble": "-0.00105259"
+    },
+    {
+      "$numberDouble": "0.01465894"
+    },
+    {
+      "$numberDouble": "0.11036799"
+    },
+    {
+      "$numberDouble": "0.05780839"
+    },
+    {
+      "$numberDouble": "0.00453833"
+    },
+    {
+      "$numberDouble": "-0.08003523"
+    },
+    {
+      "$numberDouble": "0.03583827"
+    },
+    {
+      "$numberDouble": "-0.0347576"
+    },
+    {
+      "$numberDouble": "-0.05481886"
+    },
+    {
+      "$numberDouble": "0.0529792"
+    },
+    {
+      "$numberDouble": "0.02306874"
+    },
+    {
+      "$numberDouble": "-0.00216507"
+    },
+    {
+      "$numberDouble": "0.02031087"
+    },
+    {
+      "$numberDouble": "0.041973"
+    },
+    {
+      "$numberDouble": "0.05779775"
+    },
+    {
+      "$numberDouble": "0.10769998"
+    },
+    {
+      "$numberDouble": "0.00021765"
+    },
+    {
+      "$numberDouble": "0.08143811"
+    },
+    {
+      "$numberDouble": "0.00251511"
+    },
+    {
+      "$numberDouble": "-0.0314035"
+    },
+    {
+      "$numberDouble": "-0.06476358"
+    },
+    {
+      "$numberDouble": "-0.01509936"
+    },
+    {
+      "$numberDouble": "-0.06827603"
+    },
+    {
+      "$numberDouble": "-0.07171456"
+    },
+    {
+      "$numberDouble": "0.0469326"
+    },
+    {
+      "$numberDouble": "0.07903153"
+    },
+    {
+      "$numberDouble": "-0.01527306"
+    },
+    {
+      "$numberDouble": "0.04277281"
+    },
+    {
+      "$numberDouble": "0.03924536"
+    },
+    {
+      "$numberDouble": "0.05461694"
+    },
+    {
+      "$numberDouble": "-0.02132361"
+    },
+    {
+      "$numberDouble": "0.06588162"
+    },
+    {
+      "$numberDouble": "-0.01991835"
+    },
+    {
+      "$numberDouble": "0.01009926"
+    },
+    {
+      "$numberDouble": "-0.04933619"
+    },
+    {
+      "$numberDouble": "0.01956807"
+    },
+    {
+      "$numberDouble": "-0.03092319"
+    },
+    {
+      "$numberDouble": "0.05679055"
+    },
+    {
+      "$numberDouble": "-0.01359572"
+    },
+    {
+      "$numberDouble": "-0.05083572"
+    },
+    {
+      "$numberDouble": "-0.0591879"
+    },
+    {
+      "$numberDouble": "-0.03553922"
+    },
+    {
+      "$numberDouble": "0.02253708"
+    },
+    {
+      "$numberDouble": "-0.00052452"
+    },
+    {
+      "$numberDouble": "-0.02303728"
+    },
+    {
+      "$numberDouble": "0.00008161"
+    },
+    {
+      "$numberDouble": "-0.00022487"
+    },
+    {
+      "$numberDouble": "0.06448372"
+    },
+    {
+      "$numberDouble": "0.04146577"
+    },
+    {
+      "$numberDouble": "-0.0480565"
+    },
+    {
+      "$numberDouble": "0.07134909"
+    },
+    {
+      "$numberDouble": "-0.01220931"
+    },
+    {
+      "$numberDouble": "-0.03505537"
+    },
+    {
+      "$numberDouble": "-0.00933517"
+    },
+    {
+      "$numberDouble": "-0.0334522"
+    },
+    {
+      "$numberDouble": "-0.01578635"
+    },
+    {
+      "$numberDouble": "-0.01685676"
+    },
+    {
+      "$numberDouble": "-0.00480531"
+    },
+    {
+      "$numberDouble": "-0.06870598"
+    },
+    {
+      "$numberDouble": "0.01787677"
+    },
+    {
+      "$numberDouble": "0.07113591"
+    },
+    {
+      "$numberDouble": "-0.03777364"
+    },
+    {
+      "$numberDouble": "-0.00556329"
+    },
+    {
+      "$numberDouble": "-0.13636802"
+    },
+    {
+      "$numberDouble": "-0.03413244"
+    },
+    {
+      "$numberDouble": "0.00575588"
+    },
+    {
+      "$numberDouble": "-0.00507966"
+    },
+    {
+      "$numberDouble": "0.02014888"
+    },
+    {
+      "$numberDouble": "0.10034325"
+    },
+    {
+      "$numberDouble": "0.05964248"
+    },
+    {
+      "$numberDouble": "-0.07246481"
+    },
+    {
+      "$numberDouble": "0.02483281"
+    },
+    {
+      "$numberDouble": "0.04506123"
+    },
+    {
+      "$numberDouble": "-0.04173854"
+    },
+    {
+      "$numberDouble": "0.01045458"
+    },
+    {
+      "$numberDouble": "-0.09102564"
+    },
+    {
+      "$numberDouble": "-0.02756381"
+    },
+    {
+      "$numberDouble": "-0.0223663"
+    },
+    {
+      "$numberDouble": "0.07846176"
+    },
+    {
+      "$numberDouble": "-0.02525373"
+    },
+    {
+      "$numberDouble": "-0.05723256"
+    },
+    {
+      "$numberDouble": "0.11835714"
+    },
+    {
+      "$numberDouble": "-0.06183673"
+    },
+    {
+      "$numberDouble": "0.06065982"
+    },
+    {
+      "$numberDouble": "0.06941015"
+    },
+    {
+      "$numberDouble": "0.01160647"
+    },
+    {
+      "$numberDouble": "-0.00863655"
+    },
+    {
+      "$numberDouble": "0.02519185"
+    },
+    {
+      "$numberDouble": "0.00883004"
+    },
+    {
+      "$numberDouble": "-0.01594112"
+    },
+    {
+      "$numberDouble": "0.04729526"
+    },
+    {
+      "$numberDouble": "-0.03878316"
+    },
+    {
+      "$numberDouble": "0.05739485"
+    },
+    {
+      "$numberDouble": "-0.06341393"
+    },
+    {
+      "$numberDouble": "0.02756868"
+    },
+    {
+      "$numberDouble": "0.01392748"
+    },
+    {
+      "$numberDouble": "0.0322725"
+    },
+    {
+      "$numberDouble": "0.00765321"
+    },
+    {
+      "$numberDouble": "-0.11861422"
+    },
+    {
+      "$numberDouble": "-0.03867593"
+    },
+    {
+      "$numberDouble": "-0.00557536"
+    },
+    {
+      "$numberDouble": "0.03756097"
+    },
+    {
+      "$numberDouble": "0.01206189"
+    },
+    {
+      "$numberDouble": "-0.07444701"
+    },
+    {
+      "$numberDouble": "0.03336655"
+    },
+    {
+      "$numberDouble": "-0.02730226"
+    },
+    {
+      "$numberDouble": "0.04576835"
+    },
+    {
+      "$numberDouble": "-0.03172949"
+    },
+    {
+      "$numberDouble": "0.01742051"
+    },
+    {
+      "$numberDouble": "-0.10782452"
+    },
+    {
+      "$numberDouble": "0.01716234"
+    },
+    {
+      "$numberDouble": "-0.11390626"
+    },
+    {
+      "$numberDouble": "-0.0212431"
+    },
+    {
+      "$numberDouble": "0.02872451"
+    },
+    {
+      "$numberDouble": "0.00497146"
+    },
+    {
+      "$numberDouble": "-0.01796769"
+    },
+    {
+      "$numberDouble": "-0.02521427"
+    },
+    {
+      "$numberDouble": "0.04064984"
+    },
+    {
+      "$numberDouble": "-0.03604235"
+    },
+    {
+      "$numberDouble": "0.02404473"
+    },
+    {
+      "$numberDouble": "-0.06496223"
+    },
+    {
+      "$numberDouble": "-0.09088687"
+    },
+    {
+      "$numberDouble": "0.00024603"
+    },
+    {
+      "$numberDouble": "-0.00365131"
+    },
+    {
+      "$numberDouble": "-0.07459566"
+    },
+    {
+      "$numberDouble": "0.01230153"
+    },
+    {
+      "$numberDouble": "-0.00965877"
+    },
+    {
+      "$numberDouble": "0.03915015"
+    },
+    {
+      "$numberDouble": "-0.00764406"
+    },
+    {
+      "$numberDouble": "0.01712174"
+    },
+    {
+      "$numberDouble": "-0.09163737"
+    },
+    {
+      "$numberDouble": "0.00372762"
+    },
+    {
+      "$numberDouble": "-0.03048904"
+    },
+    {
+      "$numberDouble": "0.02621353"
+    },
+    {
+      "$numberDouble": "0.01345549"
+    },
+    {
+      "$numberDouble": "0.03972855"
+    },
+    {
+      "$numberDouble": "0.01496126"
+    },
+    {
+      "$numberDouble": "0.06315903"
+    },
+    {
+      "$numberDouble": "-0.00302226"
+    },
+    {
+      "$numberDouble": "-0.00768283"
+    },
+    {
+      "$numberDouble": "-0.04250086"
+    },
+    {
+      "$numberDouble": "0.00983214"
+    },
+    {
+      "$numberDouble": "-0.04628771"
+    },
+    {
+      "$numberDouble": "-0.00589754"
+    },
+    {
+      "$numberDouble": "-0.02808997"
+    },
+    {
+      "$numberDouble": "-0.06064123"
+    },
+    {
+      "$numberDouble": "0.02490086"
+    },
+    {
+      "$numberDouble": "-0.02413576"
+    },
+    {
+      "$numberDouble": "-0.01440687"
+    },
+    {
+      "$numberDouble": "0.01699635"
+    },
+    {
+      "$numberDouble": "0.08792698"
+    },
+    {
+      "$numberDouble": "-0.02688076"
+    },
+    {
+      "$numberDouble": "0.01582316"
+    },
+    {
+      "$numberDouble": "0.07732803"
+    },
+    {
+      "$numberDouble": "0.02304805"
+    },
+    {
+      "$numberDouble": "0.03154376"
+    },
+    {
+      "$numberDouble": "0.02397091"
+    },
+    {
+      "$numberDouble": "-0.05455303"
+    },
+    {
+      "$numberDouble": "-0.07748778"
+    },
+    {
+      "$numberDouble": "0.01681788"
+    },
+    {
+      "$numberDouble": "0.03585397"
+    },
+    {
+      "$numberDouble": "-0.07457919"
+    },
+    {
+      "$numberDouble": "-0.00734444"
+    },
+    {
+      "$numberDouble": "0.02819275"
+    },
+    {
+      "$numberDouble": "-0.03740416"
+    },
+    {
+      "$numberDouble": "0.03356605"
+    },
+    {
+      "$numberDouble": "0.01665452"
+    },
+    {
+      "$numberDouble": "-0.06302012"
+    },
+    {
+      "$numberDouble": "0.04490078"
+    },
+    {
+      "$numberDouble": "-0.06175613"
+    },
+    {
+      "$numberDouble": "-0.00554495"
+    },
+    {
+      "$numberDouble": "0.0291011"
+    },
+    {
+      "$numberDouble": "-0.01959727"
+    },
+    {
+      "$numberDouble": "-0.04534759"
+    },
+    {
+      "$numberDouble": "0.0393785"
+    },
+    {
+      "$numberDouble": "0.10678442"
+    },
+    {
+      "$numberDouble": "-0.07499404"
+    },
+    {
+      "$numberDouble": "-0.03057199"
+    },
+    {
+      "$numberDouble": "-0.04838516"
+    },
+    {
+      "$numberDouble": "-0.01528863"
+    },
+    {
+      "$numberDouble": "-0.03281365"
+    },
+    {
+      "$numberDouble": "0.00254948"
+    },
+    {
+      "$numberDouble": "-0.05387439"
+    },
+    {
+      "$numberDouble": "0.08213702"
+    },
+    {
+      "$numberDouble": "0.03668384"
+    },
+    {
+      "$numberDouble": "-0.02875871"
+    },
+    {
+      "$numberDouble": "0.02757843"
+    },
+    {
+      "$numberDouble": "-0.02919918"
+    },
+    {
+      "$numberDouble": "0.0460188"
+    },
+    {
+      "$numberDouble": "0.06833834"
+    },
+    {
+      "$numberDouble": "-0.00045914"
+    },
+    {
+      "$numberDouble": "-0.05649309"
+    },
+    {
+      "$numberDouble": "0.05204208"
+    },
+    {
+      "$numberDouble": "0.04119107"
+    },
+    {
+      "$numberDouble": "-0.08286723"
+    },
+    {
+      "$numberDouble": "-0.02777525"
+    },
+    {
+      "$numberDouble": "-0.02454147"
+    },
+    {
+      "$numberDouble": "0.0461518"
+    },
+    {
+      "$numberDouble": "-0.17831281"
+    },
+    {
+      "$numberDouble": "-0.01031961"
+    },
+    {
+      "$numberDouble": "-0.00370214"
+    },
+    {
+      "$numberDouble": "-0.01410695"
+    },
+    {
+      "$numberDouble": "-0.03263703"
+    },
+    {
+      "$numberDouble": "0.11622226"
+    },
+    {
+      "$numberDouble": "-0.00277868"
+    },
+    {
+      "$numberDouble": "-0.00356835"
+    },
+    {
+      "$numberDouble": "-0.00701186"
+    },
+    {
+      "$numberDouble": "0.00838348"
+    },
+    {
+      "$numberDouble": "0.06294739"
+    },
+    {
+      "$numberDouble": "-0.06126392"
+    },
+    {
+      "$numberDouble": "0.0910755"
+    },
+    {
+      "$numberDouble": "-0.05774701"
+    },
+    {
+      "$numberDouble": "-0.00752468"
+    },
+    {
+      "$numberDouble": "0.08375878"
+    },
+    {
+      "$numberDouble": "-0.03504347"
+    },
+    {
+      "$numberDouble": "0.00968494"
+    },
+    {
+      "$numberDouble": "0.07362541"
+    },
+    {
+      "$numberDouble": "-0.05550138"
+    },
+    {
+      "$numberDouble": "0.06232798"
+    },
+    {
+      "$numberDouble": "0.01419616"
+    },
+    {
+      "$numberDouble": "0.02830913"
+    },
+    {
+      "$numberDouble": "0.03961313"
+    },
+    {
+      "$numberDouble": "0.00691971"
+    },
+    {
+      "$numberDouble": "0.05112506"
+    },
+    {
+      "$numberDouble": "0.12785663"
+    },
+    {
+      "$numberDouble": "-0.15205927"
+    },
+    {
+      "$numberDouble": "-0.01651918"
+    },
+    {
+      "$numberDouble": "0.05221"
+    },
+    {
+      "$numberDouble": "-0.01304906"
+    },
+    {
+      "$numberDouble": "0.03584804"
+    },
+    {
+      "$numberDouble": "-0.05617785"
+    },
+    {
+      "$numberDouble": "-0.05120184"
+    },
+    {
+      "$numberDouble": "0.0000391"
+    },
+    {
+      "$numberDouble": "0.00680803"
+    },
+    {
+      "$numberDouble": "-0.04794619"
+    },
+    {
+      "$numberDouble": "-0.01129239"
+    },
+    {
+      "$numberDouble": "-0.02849017"
+    },
+    {
+      "$numberDouble": "-0.04112455"
+    },
+    {
+      "$numberDouble": "-0.01292784"
+    },
+    {
+      "$numberDouble": "-0.03047779"
+    },
+    {
+      "$numberDouble": "0.05147005"
+    },
+    {
+      "$numberDouble": "-0.11423847"
+    },
+    {
+      "$numberDouble": "-0.01697771"
+    },
+    {
+      "$numberDouble": "-0.13690494"
+    },
+    {
+      "$numberDouble": "-0.02051187"
+    },
+    {
+      "$numberDouble": "-0.00007809"
+    },
+    {
+      "$numberDouble": "-0.03642239"
+    },
+    {
+      "$numberDouble": "0.00222292"
+    },
+    {
+      "$numberDouble": "-0.04026232"
+    },
+    {
+      "$numberDouble": "0.00814449"
+    },
+    {
+      "$numberDouble": "0.02518805"
+    },
+    {
+      "$numberDouble": "0.01261238"
+    },
+    {
+      "$numberDouble": "0.02480816"
+    },
+    {
+      "$numberDouble": "-0.02228019"
+    },
+    {
+      "$numberDouble": "0.01143037"
+    },
+    {
+      "$numberDouble": "0.06728423"
+    },
+    {
+      "$numberDouble": "0.01183182"
+    },
+    {
+      "$numberDouble": "0.05466615"
+    },
+    {
+      "$numberDouble": "-0.00762174"
+    },
+    {
+      "$numberDouble": "-0.01736757"
+    },
+    {
+      "$numberDouble": "-0.00815687"
+    },
+    {
+      "$numberDouble": "0.01999649"
+    },
+    {
+      "$numberDouble": "-0.07421071"
+    },
+    {
+      "$numberDouble": "0.07872887"
+    },
+    {
+      "$numberDouble": "0.06239494"
+    },
+    {
+      "$numberDouble": "0.13300772"
+    },
+    {
+      "$numberDouble": "0.08974205"
+    },
+    {
+      "$numberDouble": "0.00490493"
+    },
+    {
+      "$numberDouble": "0.06133684"
+    },
+    {
+      "$numberDouble": "0.00514189"
+    },
+    {
+      "$numberDouble": "0.02481634"
+    },
+    {
+      "$numberDouble": "-0.03658054"
+    },
+    {
+      "$numberDouble": "0.09397668"
+    },
+    {
+      "$numberDouble": "0.01421528"
+    },
+    {
+      "$numberDouble": "0.08949856"
+    },
+    {
+      "$numberDouble": "-0.02215342"
+    },
+    {
+      "$numberDouble": "0.06224641"
+    },
+    {
+      "$numberDouble": "-0.06318387"
+    },
+    {
+      "$numberDouble": "-0.13411239"
+    },
+    {
+      "$numberDouble": "0.00768731"
+    },
+    {
+      "$numberDouble": "-0.01949061"
+    },
+    {
+      "$numberDouble": "-0.02476958"
+    },
+    {
+      "$numberDouble": "-0.06427525"
+    },
+    {
+      "$numberDouble": "0.0995388"
+    },
+    {
+      "$numberDouble": "-0.02889165"
+    },
+    {
+      "$numberDouble": "-0.01097072"
+    },
+    {
+      "$numberDouble": "-0.07371397"
+    },
+    {
+      "$numberDouble": "0.00977327"
+    },
+    {
+      "$numberDouble": "0.01976039"
+    },
+    {
+      "$numberDouble": "0.05853892"
+    },
+    {
+      "$numberDouble": "0.01372409"
+    },
+    {
+      "$numberDouble": "-0.0030109"
+    },
+    {
+      "$numberDouble": "0.02368754"
+    },
+    {
+      "$numberDouble": "0.02950102"
+    },
+    {
+      "$numberDouble": "-0.037952"
+    },
+    {
+      "$numberDouble": "0.0181005"
+    },
+    {
+      "$numberDouble": "0.00762781"
+    },
+    {
+      "$numberDouble": "0.02777597"
+    },
+    {
+      "$numberDouble": "-0.00384804"
+    },
+    {
+      "$numberDouble": "0.0059374"
+    },
+    {
+      "$numberDouble": "-0.06221055"
+    },
+    {
+      "$numberDouble": "0.03605431"
+    },
+    {
+      "$numberDouble": "-0.0897698"
+    },
+    {
+      "$numberDouble": "0.01329006"
+    },
+    {
+      "$numberDouble": "0.02431109"
+    },
+    {
+      "$numberDouble": "0.03285062"
+    },
+    {
+      "$numberDouble": "0.0584331"
+    },
+    {
+      "$numberDouble": "-0.07109777"
+    },
+    {
+      "$numberDouble": "0.09164824"
+    },
+    {
+      "$numberDouble": "0.00598054"
+    },
+    {
+      "$numberDouble": "-0.09255883"
+    },
+    {
+      "$numberDouble": "0.01700931"
+    },
+    {
+      "$numberDouble": "-0.00922311"
+    },
+    {
+      "$numberDouble": "-0.08771315"
+    },
+    {
+      "$numberDouble": "0.09870246"
+    },
+    {
+      "$numberDouble": "0.09610222"
+    },
+    {
+      "$numberDouble": "0.00048804"
+    },
+    {
+      "$numberDouble": "0.10164221"
+    },
+    {
+      "$numberDouble": "0.04107031"
+    },
+    {
+      "$numberDouble": "-0.01633961"
+    },
+    {
+      "$numberDouble": "-0.03860131"
+    },
+    {
+      "$numberDouble": "-0.01061984"
+    },
+    {
+      "$numberDouble": "0.03484567"
+    },
+    {
+      "$numberDouble": "-0.03855839"
+    },
+    {
+      "$numberDouble": "0.03164791"
+    },
+    {
+      "$numberDouble": "-0.03974677"
+    },
+    {
+      "$numberDouble": "-0.04447788"
+    },
+    {
+      "$numberDouble": "-0.01066267"
+    },
+    {
+      "$numberDouble": "0.01232317"
+    },
+    {
+      "$numberDouble": "-0.07801619"
+    },
+    {
+      "$numberDouble": "-0.04792411"
+    },
+    {
+      "$numberDouble": "0.02662234"
+    },
+    {
+      "$numberDouble": "0.01267743"
+    },
+    {
+      "$numberDouble": "0.02714905"
+    },
+    {
+      "$numberDouble": "0.01146849"
+    },
+    {
+      "$numberDouble": "0.04205928"
+    },
+    {
+      "$numberDouble": "-0.04670639"
+    },
+    {
+      "$numberDouble": "0.02569067"
+    },
+    {
+      "$numberDouble": "0.03914598"
+    },
+    {
+      "$numberDouble": "-0.00810966"
+    },
+    {
+      "$numberDouble": "-0.01155127"
+    },
+    {
+      "$numberDouble": "0.01214577"
+    },
+    {
+      "$numberDouble": "0.05422557"
+    },
+    {
+      "$numberDouble": "-0.02329177"
+    },
+    {
+      "$numberDouble": "0.07754204"
+    },
+    {
+      "$numberDouble": "-0.06440697"
+    },
+    {
+      "$numberDouble": "0.0463504"
+    },
+    {
+      "$numberDouble": "0.00441102"
+    },
+    {
+      "$numberDouble": "0.06742851"
+    },
+    {
+      "$numberDouble": "0.08288996"
+    },
+    {
+      "$numberDouble": "0.03660627"
+    },
+    {
+      "$numberDouble": "0.02137334"
+    },
+    {
+      "$numberDouble": "-0.02008255"
+    },
+    {
+      "$numberDouble": "-0.06440476"
+    },
+    {
+      "$numberDouble": "0.04254235"
+    },
+    {
+      "$numberDouble": "0.00855061"
+    },
+    {
+      "$numberDouble": "-0.00662324"
+    },
+    {
+      "$numberDouble": "-0.09058195"
+    },
+    {
+      "$numberDouble": "0.02742161"
+    },
+    {
+      "$numberDouble": "0.03499649"
+    },
+    {
+      "$numberDouble": "-0.03046454"
+    },
+    {
+      "$numberDouble": "-0.0202915"
+    },
+    {
+      "$numberDouble": "-0.10220242"
+    },
+    {
+      "$numberDouble": "-0.02939557"
+    },
+    {
+      "$numberDouble": "-0.00521664"
+    },
+    {
+      "$numberDouble": "0.08655784"
+    },
+    {
+      "$numberDouble": "-0.08947412"
+    },
+    {
+      "$numberDouble": "-0.0765937"
+    },
+    {
+      "$numberDouble": "-0.00854781"
+    },
+    {
+      "$numberDouble": "-0.03436333"
+    },
+    {
+      "$numberDouble": "0.03824838"
+    },
+    {
+      "$numberDouble": "-0.11057271"
+    },
+    {
+      "$numberDouble": "0.02857218"
+    },
+    {
+      "$numberDouble": "0.05390155"
+    },
+    {
+      "$numberDouble": "0.01692544"
+    }
+  ],
+  "modelo_embedding": "paraphrase-multilingual-MiniLM-L12-v2"
+}]
